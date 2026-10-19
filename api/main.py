@@ -10,11 +10,12 @@ from fastapi import FastAPI
 from pydantic import BaseModel, Field
 
 from src.classifier import CONFIDENCE_THRESHOLD, TransactionClassifier, categorize
-from fastapi.responses import RedirectResponse
+from fastapi.responses import FileResponse
 
 MODEL_PATH = Path("models/classifier.joblib")
 MAX_LABELS = 100
 CACHE_MAX_SIZE = 10_000
+STATIC_DIR = Path(__file__).parent / "static"
 
 load_dotenv()
 state = {}
@@ -60,8 +61,8 @@ class CategorizeResponse(BaseModel):
     results: list[TransactionResult]
 
 @app.get("/", include_in_schema=False)
-def root():
-    return RedirectResponse(url="/docs")
+def home():
+    return FileResponse(STATIC_DIR / "index.html")
 
 @app.get("/health")
 def health():

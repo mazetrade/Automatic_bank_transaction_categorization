@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SpendSense: categorize bank transactions</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --ink: #1d2433;
+      --muted: #5b6475;
+      --page: #eef1f6;
+      --paper: #ffffff;
+      --line: #d9dee8;
+      --model: #2f6f62;
+      --claude: #6b4fa0;
+      --focus: #2457c5;
+      --sans: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+      --mono: "IBM Plex Mono", Consolas, "Courier New", monospace;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--page); color: var(--ink); font-family: var(--sans); font-size: 16px; line-height: 1.5; }
+    a { color: var(--focus); }
+    :focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+
+    .top { max-width: 1180px; margin: 0 auto; padding: 40px 24px 16px; }
+    .top h1 { margin: 0; font-size: 2.25rem; font-weight: 600; letter-spacing: -0.02em; }
+    .top p { margin: 8px 0 4px; max-width: 64ch; color: var(--muted); }
+
+    .layout { max-width: 1180px; margin: 0 auto; padding: 16px 24px 48px; display: grid; gap: 24px; grid-template-columns: 1fr; }
+    @media (min-width: 900px) { .layout { grid-template-columns: 380px 1fr; align-items: start; } }
+
+    section { background: var(--paper); border: 1px solid var(--line); border-radius: 10px; padding: 24px; }
+    h2 { margin: 0 0 4px; font-size: 1.15rem; font-weight: 600; }
+    .hint { margin: 0 0 12px; color: var(--muted); font-size: 0.9rem; display: block; }
+
+    textarea { width: 100%; min-height: 320px; padding: 12px; border: 1px solid var(--line); border-radius: 6px; font-family: var(--mono); font-size: 0.85rem; line-height: 1.7; color: var(--ink); resize: vertical; }
+    .actions { display: flex; gap: 12px; margin: 16px 0 8px; flex-wrap: wrap; }
+    button { font: inherit; font-weight: 500; padding: 10px 18px; border-radius: 6px; border: 1px solid var(--ink); background: var(--ink); color: #fff; cursor: pointer; }
+    button.secondary { background: transparent; color: var(--ink); }
+    button:disabled { opacity: 0.55; cursor: wait; }
+    .status { margin: 8px 0 0; font-size: 0.9rem; min-height: 1.5em; }
+
+    .empty { color: var(--muted); padding: 48px 0; text-align: center; }
+
+    .summary { display: grid; gap: 8px; margin: 12px 0 24px; }
+    .summary-row { display: grid; grid-template-columns: 170px 1fr 32px; gap: 12px; align-items: center; font-size: 0.9rem; }
+    .summary-bar { height: 10px; border-radius: 5px; }
+    .summary-count { text-align: right; font-variant-numeric: tabular-nums; }
+    .sources { margin: 4px 0 20px; color: var(--muted); font-size: 0.9rem; }
+
+    .table-wrap { overflow-x: auto; }
+    table { width: 100%; border-collapse: collapse; }
+    th { text-align: left; font-size: 0.8rem; font-weight: 500; color: var(--muted); padding: 8px 12px 8px 0; border-bottom: 1px solid var(--line); }
+    td { padding: 12px 12px 12px 0; border-bottom: 1px solid var(--line); vertical-align: top; }
+    td.label { font-family: var(--mono); font-size: 0.85rem; word-break: break-word; }
+    .category { display: inline-flex; align-items: center; gap: 8px; white-space: nowrap; font-weight: 500; }
+    .dot { width: 10px; height: 10px; border-radius: 50%; flex: none; }
+    .decided { font-size: 0.85rem; white-space: nowrap; }
+    .decided.model { color: var(--model); }
+    .decided.claude { color: var(--claude); }
+    .meter { display: block; width: 90px; height: 4px; margin-top: 6px; background: var(--line); border-radius: 2px; overflow: hidden; }
+    .meter span { display: block; height: 100%; background: currentColor; }
+    .note { display: block; color: var(--muted); font-size: 0.8rem; }
+  </style>
+</head>
+<body>
+  <header class="top">
+    <h1>SpendSense</h1>
+    <p>Paste bank statement labels, one per line. A machine learning model categorizes the transactions it recognizes, and Claude handles the uncertain ones.</p>
+    <a href="/docs">API documentation</a>
+  </header>
+
+  <main class="layout">
+    <section aria-labelledby="input-title">
+      <h2 id="input-title">Your statement</h2>
+      <label for="labels" class="hint">One transaction label per line, up to 100. Press Ctrl+Enter to categorize.</label>
+      <textarea id="labels" spellcheck="false" placeholder="CB CARREFOUR MARKET 12/03&#10;PRLV SEPA NETFLIX.COM"></textarea>
+      <div class="actions">
+        <button id="sample" type="button" class="secondary">Load a sample month</button>
+        <button id="run" type="button">Categorize</button>
+      </div>
+      <p id="count" class="hint">0 of 100 transactions</p>
+      <p id="status" class="status" role="status" aria-live="polite"></p>
+    </section>
+
+    <section aria-labelledby="output-title">
+      <h2 id="output-title">Categorized transactions</h2>
+      <p id="empty" class="empty">Your categorized transactions will appear here.</p>
+      <div id="results" hidden>
+        <div id="summary" class="summary"></div>
+        <p id="sources" class="sources"></p>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr><th scope="col">Label</th><th scope="col">Category</th><th scope="col">Decided by</th></tr>
+            </thead>
+            <tbody id="rows"></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    const MAX_LABELS = 100;
+
+    const SAMPLE_MONTH = [
+      "VIR SEPA RECU DE DUPONT SAS SALAIRE OCTOBRE",
+      "VIR SEPA LOYER OCTOBRE AGENCE CENTRALE",
+      "PRLV SEPA EDF CLIENTS PARTICULIERS",
+      "PRLV SEPA FREE MOBILE",
+      "CB CARREFOUR MARKET 02/10",
+      "CB BIOCOOP 05/10",
+      "CB SNCF CONNECT 04/10",
+      "CB UBER EATS 09/10",
+      "CB PHARMACIE DU MARCHE 06/10",
+      "RETRAIT DAB 07/10 LYON 3",
+      "PRLV SEPA NETFLIX.COM",
+      "CB DECATHLON 11/10",
+      "CB PATHE BEAUGRENELLE 12/10",
+      "PRLV SEPA BASIC FIT",
+      "VIR INST VERS M MARTIN LUCAS",
+      "COTISATION CARTE VISA 2026",
+    ];
+
+    const CATEGORY_COLORS = {
+      "Groceries": "#7a9a2e",
+      "Restaurants": "#d0643b",
+      "Transport": "#2f6db5",
+      "Subscriptions": "#8250c4",
+      "Shopping": "#c2417a",
+      "Housing & Utilities": "#6b7280",
+      "Health": "#1a9a8f",
+      "Leisure & Travel": "#c99316",
+      "Income": "#15803d",
+      "Transfers": "#4f5bd5",
+      "Cash Withdrawal": "#8b5e34",
+      "Bank Fees": "#b42318",
+    };
+
+    const textarea = document.getElementById("labels");
+    const runButton = document.getElementById("run");
+    const sampleButton = document.getElementById("sample");
+    const countText = document.getElementById("count");
+    const statusText = document.getElementById("status");
+
+    function getLabels() {
+      return textarea.value.split("\n").map(line => line.trim()).filter(line => line.length > 0);
+    }
+
+    function updateCount() {
+      countText.textContent = `${getLabels().length} of ${MAX_LABELS} transactions`;
+    }
+
+    function categoryTag(category) {
+      const tag = document.createElement("span");
+      tag.className = "category";
+      const dot = document.createElement("span");
+      dot.className = "dot";
+      dot.style.background = CATEGORY_COLORS[category] || "#999";
+      tag.append(dot, document.createTextNode(category));
+      return tag;
+    }
+
+    function decidedBy(result) {
+      const cell = document.createElement("span");
+      const percent = Math.round(result.confidence * 100);
+      if (result.source === "claude") {
+        cell.className = "decided claude";
+        cell.textContent = "Claude";
+        const note = document.createElement("span");
+        note.className = "note";
+        note.textContent = `The model was only ${percent}% sure`;
+        cell.append(note);
+      } else {
+        cell.className = "decided model";
+        cell.textContent = `Model, ${percent}% sure`;
+        const meter = document.createElement("span");
+        meter.className = "meter";
+        const fill = document.createElement("span");
+        fill.style.width = `${percent}%`;
+        meter.append(fill);
+        cell.append(meter);
+      }
+      return cell;
+    }
+
+    function renderSummary(results) {
+      const counts = {};
+      for (const result of results) counts[result.category] = (counts[result.category] || 0) + 1;
+      const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+      const largest = sorted[0][1];
+
+      const summary = document.getElementById("summary");
+      summary.replaceChildren();
+      for (const [category, count] of sorted) {
+        const row = document.createElement("div");
+        row.className = "summary-row";
+        const bar = document.createElement("div");
+        bar.className = "summary-bar";
+        bar.style.width = `${(count / largest) * 100}%`;
+        bar.style.background = CATEGORY_COLORS[category] || "#999";
+        const number = document.createElement("span");
+        number.className = "summary-count";
+        number.textContent = count;
+        row.append(categoryTag(category), bar, number);
+        summary.append(row);
+      }
+
+      const byClaude = results.filter(result => result.source === "claude").length;
+      document.getElementById("sources").textContent =
+        `${results.length - byClaude} decided by the model, ${byClaude} by Claude.`;
+    }
+
+    function renderRows(results) {
+      const rows = document.getElementById("rows");
+      rows.replaceChildren();
+      for (const result of results) {
+        const row = document.createElement("tr");
+        const label = document.createElement("td");
+        label.className = "label";
+        label.textContent = result.label;
+        const category = document.createElement("td");
+        category.append(categoryTag(result.category));
+        const decided = document.createElement("td");
+        decided.append(decidedBy(result));
+        row.append(label, category, decided);
+        rows.append(row);
+      }
+    }
+
+    async function categorize() {
+      const labels = getLabels();
+      if (labels.length === 0) {
+        statusText.textContent = "Add at least one transaction label, or load the sample month.";
+        return;
+      }
+      if (labels.length > MAX_LABELS) {
+        statusText.textContent = `You entered ${labels.length} labels. The limit is ${MAX_LABELS} per request.`;
+        return;
+      }
+
+      runButton.disabled = true;
+      statusText.textContent = "Categorizing. If the server was asleep, the first request can take up to a minute.";
+      try {
+        const response = await fetch("/categorize", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ labels }),
+        });
+        if (!response.ok) throw new Error(`the server answered with status ${response.status}`);
+        const data = await response.json();
+        renderSummary(data.results);
+        renderRows(data.results);
+        document.getElementById("empty").hidden = true;
+        document.getElementById("results").hidden = false;
+        statusText.textContent = `${labels.length} transactions categorized.`;
+      } catch (error) {
+        statusText.textContent = `Categorization failed: ${error.message}. Try again in a moment.`;
+      } finally {
+        runButton.disabled = false;
+      }
+    }
+
+    sampleButton.addEventListener("click", () => {
+      textarea.value = SAMPLE_MONTH.join("\n");
+      updateCount();
+      textarea.focus();
+    });
+    runButton.addEventListener("click", categorize);
+    textarea.addEventListener("input", updateCount);
+    textarea.addEventListener("keydown", event => {
+      if (event.key === "Enter" && (event.ctrlKey || event.metaKey)) categorize();
+    });
+  </script>
+</body>
+</html>

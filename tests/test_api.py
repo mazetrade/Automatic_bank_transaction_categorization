@@ -30,10 +30,11 @@ def test_health(client):
     assert response.json()["llm_fallback"] is True
 
 
-def test_root_redirects_to_docs(client):
-    response = client.get("/", follow_redirects=False)
-    assert response.status_code == 307
-    assert response.headers["location"] == "/docs"
+def test_home_page_is_served(client):
+    response = client.get("/")
+    assert response.status_code == 200
+    assert "text/html" in response.headers["content-type"]
+    assert "SpendSense" in response.text
 
 
 def test_known_label_is_decided_by_the_model(client):

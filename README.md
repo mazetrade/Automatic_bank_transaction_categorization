@@ -2,7 +2,7 @@
 
 SpendSense turns raw French bank statement labels like `CB CARREFOUR MARKET 12/03` or `PRLV SEPA NETFLIX.COM` into spending categories (Groceries, Subscriptions, Transport...). A fast machine learning model handles the transactions it's confident about, and Claude (Anthropic's LLM) handles the uncertain ones.
 
-**Live API:** https://spendsense-7n6e.onrender.com (interactive documentation)
+**Live demo:** https://spendsense-7n6e.onrender.com (web interface) · [API documentation](https://spendsense-7n6e.onrender.com/docs)
 
 > Hosted on Render's free tier: after 15 minutes without traffic, the server sleeps, and the first request can take about a minute while it wakes up.
 
@@ -96,7 +96,7 @@ python -m pytest tests -v
 uvicorn api.main:app --reload
 ```
 
-The API documentation is then available at http://127.0.0.1:8000/docs. Without an API key, the API still works, using the model alone.
+The web interface is then available at http://127.0.0.1:8000, and the API documentation at http://127.0.0.1:8000/docs. Without an API key, the API still works, using the model alone.
 
 ## API usage
 
