@@ -6,8 +6,12 @@ import pandas as pd
 
 from src.classifier import TransactionClassifier
 
+import os
+from pathlib import Path
+
 DATA_PATH = Path("data/processed/transactions_clean.csv")
 MODEL_PATH = Path("models/classifier.joblib")
+USE_EMBEDDINGS = os.getenv("USE_EMBEDDINGS", "true").lower() == "true"
 
 SANITY_CHECKS = [
     "CB CARREFOUR MARKET 12/03",
@@ -19,8 +23,8 @@ SANITY_CHECKS = [
 
 def main():
     df = pd.read_csv(DATA_PATH)
-    print(f"Training on {len(df)} labels...")
-    classifier = TransactionClassifier(use_embeddings=True).fit(df["label"], df["category"])
+    print(f"Training on {len(df)} labels (embeddings: {USE_EMBEDDINGS})...")
+    classifier = TransactionClassifier(use_embeddings=USE_EMBEDDINGS).fit(df["label"], df["category"])
 
     MODEL_PATH.parent.mkdir(exist_ok=True)
     classifier.save(MODEL_PATH)
