@@ -1,0 +1,992 @@
+label,category,confidence,model_category,source,truth
+CARTE 14/03 INTERMARCHE TOULON,Groceries,0.1822297810546935,Shopping,claude,Groceries
+CARTE X6168 26/08 MATCH,Groceries,0.37966285112226195,Shopping,claude,Groceries
+PAIEMENT PAR CARTE ALDI 12/11,Groceries,0.2600342366901449,Shopping,claude,Groceries
+CB HYPER AUCHAN SAINT-DENIS 03/08,Groceries,0.8369715159934943,Groceries,model,Groceries
+PAIEMENT PAR CARTE MATCH 28/01,Groceries,0.26822812853374817,Shopping,claude,Groceries
+CB BIOCOOP CRETEIL 10/12,Groceries,0.4477153453479388,Health,claude,Groceries
+PAIEMENT CB 20/05 MONTREUIL HYPER AUCHAN,Groceries,0.7335194383619884,Groceries,model,Groceries
+PAIEMENT PAR CARTE SUPER CASINO 09/07,Groceries,0.8634059807983427,Groceries,model,Groceries
+CARTE X3591 04/04 HYPER AUCHAN,Groceries,0.8530233317632661,Groceries,model,Groceries
+CB ALDI NANTES 03/05,Groceries,0.38310441361707553,Shopping,claude,Groceries
+PAIEMENT PAR CARTE BIOCOOP 09/09,Groceries,0.5243376598109324,Health,claude,Groceries
+CB NETTO 18/01 CARTE X1949,Groceries,0.32838887197672334,Groceries,claude,Groceries
+PAIEMENT PAR CARTE SUPER CASINO 19/01,Groceries,0.8634059807983427,Groceries,model,Groceries
+CB HYPER AUCHAN LE HAVRE 09/08,Groceries,0.7595019799691612,Groceries,model,Groceries
+PAIEMENT CB 06/12 LE HAVRE ALDI,Groceries,0.2937789452488232,Shopping,claude,Groceries
+CB INTERMARCHE 28/01 CARTE X9645,Groceries,0.35624042898225045,Groceries,claude,Groceries
+CB BIOCOOP 21/09,Groceries,0.2634866578032031,Health,claude,Groceries
+CB MATCH 08/01 CARTE X9835,Groceries,0.4115217668592476,Shopping,claude,Groceries
+CB SUPER CASINO 07/08 CARTE X4295,Groceries,0.8748961123576899,Groceries,model,Groceries
+CB ALDI 14/01 CARTE X2104,Groceries,0.5293927477170746,Shopping,claude,Groceries
+CARTE X1514 04/10 ALDI,Groceries,0.34991783939589205,Shopping,claude,Groceries
+CARTE X5562 18/01 HYPER AUCHAN,Groceries,0.8530233317632661,Groceries,model,Groceries
+CARTE X7669 27/08 BIOCOOP,Groceries,0.60687738056656,Health,claude,Groceries
+PAIEMENT CB 06/07 PARIS 15 HYPER AUCHAN,Groceries,0.7093925758800175,Groceries,model,Groceries
+PAIEMENT CB 23/01 PARIS 15 MATCH,Groceries,0.32538754494605127,Shopping,claude,Groceries
+CB HYPER AUCHAN 24/04,Groceries,0.9126911678648145,Groceries,model,Groceries
+CARTE 18/10 MATCH LILLE,Groceries,0.3385401733265935,Shopping,claude,Groceries
+CARTE X8454 28/01 NETTO,Groceries,0.3414968797889968,Transport,claude,Groceries
+CARTE X6138 10/11 MATCH,Groceries,0.37966285112226195,Shopping,claude,Groceries
+PAIEMENT CB 01/06 TOULON BIOCOOP,Groceries,0.3787536768666243,Health,claude,Groceries
+CB SUPER CASINO 01/05 CARTE X9701,Groceries,0.8748961123576899,Groceries,model,Groceries
+PAIEMENT PAR CARTE SUPER CASINO 23/03,Groceries,0.8634059807983427,Groceries,model,Groceries
+CB MATCH 18/10 CARTE X5033,Groceries,0.4115217668592476,Shopping,claude,Groceries
+CB NETTO REIMS 15/06,Groceries,0.25503093182515413,Groceries,claude,Groceries
+PAIEMENT CB 17/02 NANTES SUPER CASINO,Groceries,0.8869300796957391,Groceries,model,Groceries
+CB INTERMARCHE 20/03 CARTE X3144,Groceries,0.35624042898225045,Groceries,claude,Groceries
+CB ALDI NANTERRE 13/10,Groceries,0.25990220307851314,Shopping,claude,Groceries
+PAIEMENT CB 15/10 PARIS 11 MATCH,Groceries,0.39826460715674183,Shopping,claude,Groceries
+CARTE X5002 24/09 MATCH,Groceries,0.37966285112226195,Shopping,claude,Groceries
+CARTE 28/09 HYPER AUCHAN LYON,Groceries,0.8515781281045554,Groceries,model,Groceries
+PAIEMENT CB 05/01 BOULOGNE-BILL SUPER CASINO,Groceries,0.7303473457979671,Groceries,model,Groceries
+PAIEMENT CB 02/05 NICE INTERMARCHE,Groceries,0.24809476785255807,Groceries,claude,Groceries
+CB ALDI 05/09,Groceries,0.5908749861653103,Shopping,claude,Groceries
+CB ALDI 22/06,Groceries,0.5908749861653103,Shopping,claude,Groceries
+PAIEMENT PAR CARTE NETTO 23/05,Groceries,0.21898513137889689,Groceries,claude,Groceries
+CARTE 07/09 SUPER CASINO NIMES,Groceries,0.8790714858914936,Groceries,model,Groceries
+PAIEMENT CB 02/04 DIJON BIOCOOP,Groceries,0.3498297995024437,Health,claude,Groceries
+PAIEMENT PAR CARTE PICARD 27/10,Groceries,0.2512143023965572,Shopping,claude,Groceries
+CARTE 03/02 BIOCOOP RENNES,Groceries,0.6498532255360044,Health,claude,Groceries
+CB INTERMARCHE SAINT-DENIS 14/08,Groceries,0.31562393686216195,Groceries,claude,Groceries
+CB INTERMARCHE 03/03 CARTE X9346,Groceries,0.35624042898225045,Groceries,claude,Groceries
+PAIEMENT PAR CARTE SUPER CASINO 01/12,Groceries,0.8634059807983427,Groceries,model,Groceries
+PAIEMENT PAR CARTE HYPER AUCHAN 01/11,Groceries,0.8216792933105459,Groceries,model,Groceries
+CARTE X6139 01/03 INTERMARCHE,Groceries,0.3425147027608084,Transport,claude,Groceries
+CARTE X1727 24/01 NETTO,Groceries,0.3414968797889968,Transport,claude,Groceries
+CB INTERMARCHE 17/06 CARTE X6143,Groceries,0.35624042898225045,Groceries,claude,Groceries
+CARTE 24/07 SUPER CASINO MARSEILLE,Groceries,0.826786907059529,Groceries,model,Groceries
+CARTE X3851 08/07 INTERMARCHE,Groceries,0.3425147027608084,Transport,claude,Groceries
+CB SUPER CASINO 07/01 CARTE X8043,Groceries,0.8748961123576899,Groceries,model,Groceries
+CARTE X9445 05/02 PICARD,Groceries,0.24245149412472844,Shopping,claude,Groceries
+PAIEMENT CB 04/11 ARGENTEUIL ALDI,Groceries,0.3177220555107184,Shopping,claude,Groceries
+CARTE X4185 27/09 HYPER AUCHAN,Groceries,0.8530233317632661,Groceries,model,Groceries
+PAIEMENT CB 27/04 TOULOUSE NETTO,Groceries,0.22962289647729936,Groceries,claude,Groceries
+CARTE 13/04 ALDI LE HAVRE,Groceries,0.2061616182887709,Shopping,claude,Groceries
+CB SUPER CASINO VERSAILLES 04/07,Groceries,0.880501522148692,Groceries,model,Groceries
+CARTE X8206 01/02 HYPER AUCHAN,Groceries,0.8530233317632661,Groceries,model,Groceries
+PAIEMENT CB 17/11 BOULOGNE-BILL INTERMARCHE,Groceries,0.2313055170133545,Shopping,claude,Groceries
+CB SUPER CASINO LYON 3 25/02,Groceries,0.8154709695361837,Groceries,model,Groceries
+PAIEMENT PAR CARTE SUPER CASINO 15/12,Groceries,0.8634059807983427,Groceries,model,Groceries
+CARTE 18/03 MATCH VILLEURBANNE,Groceries,0.4153986840033597,Shopping,claude,Groceries
+CB HYPER AUCHAN 14/09,Groceries,0.9126911678648145,Groceries,model,Groceries
+CB SUPER CASINO 27/12,Groceries,0.9012468130684134,Groceries,model,Groceries
+CB SUPER CASINO 03/02,Groceries,0.9012468130684134,Groceries,model,Groceries
+PAIEMENT CB 17/08 MARSEILLE ALDI,Groceries,0.48223799744802603,Shopping,claude,Groceries
+CB MATCH 13/10 CARTE X6111,Groceries,0.4115217668592476,Shopping,claude,Groceries
+CARTE 29/05 INTERMARCHE ANGERS,Groceries,0.21923981073255608,Shopping,claude,Groceries
+PAIEMENT PAR CARTE INTERMARCHE 16/11,Groceries,0.21656728013289742,Groceries,claude,Groceries
+CARTE 23/08 BIOCOOP NICE,Groceries,0.5197476005482848,Health,claude,Groceries
+CARTE X3885 05/04 ALDI,Groceries,0.34991783939589205,Shopping,claude,Groceries
+CARTE X2419 05/09 ALDI,Groceries,0.34991783939589205,Shopping,claude,Groceries
+CARTE X7209 27/05 PICARD,Groceries,0.24245149412472844,Shopping,claude,Groceries
+PAIEMENT PAR CARTE SUPER CASINO 27/04,Groceries,0.8634059807983427,Groceries,model,Groceries
+CB ALDI 08/01 CARTE X6813,Groceries,0.5293927477170746,Shopping,claude,Groceries
+CARTE X1166 21/05 ALDI,Groceries,0.34991783939589205,Shopping,claude,Groceries
+CB SUPER CASINO 06/05 CARTE X4130,Groceries,0.8748961123576899,Groceries,model,Groceries
+CB MATCH ROUEN 10/02,Groceries,0.2869843126588784,Groceries,claude,Groceries
+CB NETTO MARSEILLE 20/05,Groceries,0.3991403839591512,Shopping,claude,Groceries
+PAIEMENT CB 15/12 NICE ALDI,Groceries,0.24703487566757656,Shopping,claude,Groceries
+CB ALDI 15/08 CARTE X9561,Groceries,0.5293927477170746,Shopping,claude,Groceries
+PAIEMENT PAR CARTE SUPER CASINO 10/08,Groceries,0.8634059807983427,Groceries,model,Groceries
+CARTE 17/12 PICARD PARIS 15,Groceries,0.22491023567042048,Restaurants,claude,Groceries
+CB MATCH GRENOBLE 15/01,Groceries,0.2895610276549314,Groceries,claude,Groceries
+CARTE 01/04 INTERMARCHE LE HAVRE,Groceries,0.2161968801064421,Transport,claude,Groceries
+PAIEMENT CB 14/11 SAINT-DENIS ALDI,Groceries,0.2859590804975268,Groceries,claude,Groceries
+PAIEMENT PAR CARTE BIOCOOP 07/06,Groceries,0.5243376598109324,Health,claude,Groceries
+CB PICARD NICE 28/09,Groceries,0.40522307515813244,Restaurants,claude,Groceries
+CARTE 28/10 ALDI NANTERRE,Groceries,0.24682093775818612,Transport,claude,Groceries
+CARTE X9502 18/04 SUPER CASINO,Groceries,0.8762419439841748,Groceries,model,Groceries
+CB ALDI 28/06 CARTE X8245,Groceries,0.5293927477170746,Shopping,claude,Groceries
+PAIEMENT PAR CARTE INTERMARCHE 05/07,Groceries,0.21656728013289742,Groceries,claude,Groceries
+PAIEMENT CB 29/08 GRENOBLE INTERMARCHE,Groceries,0.27796027502179976,Groceries,claude,Groceries
+CARTE 16/06 SUPER CASINO NICE,Groceries,0.8400454510315798,Groceries,model,Groceries
+CB FLUNCH 23/11,Restaurants,0.29714846344871015,Shopping,claude,Restaurants
+CARTE X8905 28/03 BUFFALO GRILL,Restaurants,0.7319113549342074,Restaurants,model,Restaurants
+CB BUFFALO GRILL 19/09 CARTE X3434,Restaurants,0.7715764880555341,Restaurants,model,Restaurants
+CB LEON DE BRUXELLES 09/04 CARTE X9824,Restaurants,0.27737277006265276,Restaurants,claude,Restaurants
+PAIEMENT CB 24/04 ARGENTEUIL LEON DE BRUXELLES,Restaurants,0.3217155799610083,Groceries,claude,Restaurants
+CARTE 15/10 KIBO NIMES,Restaurants,0.4769203782808984,Shopping,claude,Restaurants
+CARTE 28/05 BUFFALO GRILL SAINT-DENIS,Restaurants,0.6449926773988733,Restaurants,claude,Restaurants
+PAIEMENT CB 16/01 VERSAILLES DELIVEROO,Restaurants,0.27269539607999205,Shopping,claude,Restaurants
+PAIEMENT CB 16/03 DIJON FLUNCH,Restaurants,0.2499671867636557,Groceries,claude,Restaurants
+CARTE 14/03 BRASSERIE DU MARCHE TOULOUSE,Restaurants,0.30421006908998516,Shopping,claude,Restaurants
+PAIEMENT CB 23/12 ARGENTEUIL LEON DE BRUXELLES,Restaurants,0.3217155799610083,Groceries,claude,Restaurants
+CARTE X7267 17/11 UBER EATS,Restaurants,0.4594655248841035,Restaurants,claude,Restaurants
+CB KIBO 15/06,Restaurants,0.5676317398644105,Shopping,claude,Restaurants
+PAIEMENT CB 08/07 BOULOGNE-BILL FLUNCH,Restaurants,0.26302915090068446,Subscriptions,claude,Restaurants
+PAIEMENT CB 23/06 BORDEAUX LEON DE BRUXELLES,Restaurants,0.23611316392334578,Groceries,claude,Restaurants
+PAIEMENT PAR CARTE KIBO 28/11,Restaurants,0.3481717157884374,Shopping,claude,Restaurants
+CB DELIVEROO 16/07 CARTE X5837,Restaurants,0.3522390012396731,Shopping,claude,Restaurants
+CB UBER EATS 25/05,Restaurants,0.6847458481816546,Restaurants,claude,Restaurants
+CB UBER EATS 06/09 CARTE X5689,Restaurants,0.3374435358230377,Shopping,claude,Restaurants
+PAIEMENT CB 15/08 RENNES DELIVEROO,Restaurants,0.22880623060187705,Groceries,claude,Restaurants
+PAIEMENT PAR CARTE KIBO 14/02,Restaurants,0.3481717157884374,Shopping,claude,Restaurants
+CARTE 30/10 LEON DE BRUXELLES STRASBOURG,Restaurants,0.27202574077748354,Restaurants,claude,Restaurants
+PAIEMENT CB 22/11 STRASBOURG BRASSERIE DU MARCHE,Restaurants,0.3862985548421145,Groceries,claude,Restaurants
+CB BUFFALO GRILL 07/10 CARTE X5465,Restaurants,0.7715764880555341,Restaurants,model,Restaurants
+PAIEMENT PAR CARTE BUFFALO GRILL 25/01,Restaurants,0.4522736965105923,Restaurants,claude,Restaurants
+CB UBER EATS 27/08 CARTE X5835,Restaurants,0.3374435358230377,Shopping,claude,Restaurants
+CARTE 17/04 BRASSERIE DU MARCHE BOULOGNE-BILL,Restaurants,0.3253403713235408,Shopping,claude,Restaurants
+CARTE X6992 11/09 LEON DE BRUXELLES,Restaurants,0.25202152464150973,Restaurants,claude,Restaurants
+CARTE X3024 14/05 DELIVEROO,Restaurants,0.22046298893756675,Transport,claude,Restaurants
+CARTE 12/04 EXKI GRENOBLE,Restaurants,0.21572706176671338,Shopping,claude,Restaurants
+PAIEMENT CB 29/11 PARIS 15 KIBO,Restaurants,0.3811874335534757,Shopping,claude,Restaurants
+PAIEMENT CB 15/06 NANTES LEON DE BRUXELLES,Restaurants,0.2726289748621617,Groceries,claude,Restaurants
+CB POKAWA 02/12,Shopping,0.7264769708960508,Shopping,model,Restaurants
+CARTE X9071 13/02 UBER EATS,Restaurants,0.4594655248841035,Restaurants,claude,Restaurants
+PAIEMENT PAR CARTE BRASSERIE DU MARCHE 12/04,Restaurants,0.35174855565385227,Shopping,claude,Restaurants
+CB KIBO PARIS 15 06/09,Restaurants,0.44184463680862557,Shopping,claude,Restaurants
+CARTE 22/11 EXKI REIMS,Restaurants,0.22421496689605866,Shopping,claude,Restaurants
+CB LEON DE BRUXELLES LA DEFENSE 01/04,Restaurants,0.331593562722052,Restaurants,claude,Restaurants
+PAIEMENT PAR CARTE UBER EATS 26/04,Restaurants,0.42021387131686117,Restaurants,claude,Restaurants
+PAIEMENT CB 01/02 PARIS 15 POKAWA,Restaurants,0.35606599834558433,Shopping,claude,Restaurants
+CARTE X8770 11/07 UBER EATS,Restaurants,0.4594655248841035,Restaurants,claude,Restaurants
+CB FLUNCH BORDEAUX 06/09,Restaurants,0.3046352477382423,Subscriptions,claude,Restaurants
+PAIEMENT PAR CARTE FLUNCH 23/11,Restaurants,0.21899871497978032,Groceries,claude,Restaurants
+CARTE 02/06 POKAWA BORDEAUX,Restaurants,0.340448465073771,Shopping,claude,Restaurants
+CB BUFFALO GRILL 05/07,Restaurants,0.734308682393656,Restaurants,model,Restaurants
+CARTE X7022 02/03 EXKI,Restaurants,0.43110853113803393,Shopping,claude,Restaurants
+CB EXKI NANTERRE 01/12,Restaurants,0.3692355013614151,Shopping,claude,Restaurants
+CARTE X1430 11/09 BUFFALO GRILL,Restaurants,0.7319113549342074,Restaurants,model,Restaurants
+CB LEON DE BRUXELLES 11/06 CARTE X5381,Restaurants,0.27737277006265276,Restaurants,claude,Restaurants
+CB EXKI 29/10,Restaurants,0.6776982700641809,Shopping,claude,Restaurants
+CB DELIVEROO 01/02,Restaurants,0.2999444507843,Shopping,claude,Restaurants
+CB DELIVEROO NANTERRE 10/10,Restaurants,0.2726586657936522,Subscriptions,claude,Restaurants
+PAIEMENT CB 25/05 PARIS 15 POKAWA,Restaurants,0.35606599834558433,Shopping,claude,Restaurants
+CB POKAWA 14/11 CARTE X3324,Shopping,0.7018632131929206,Shopping,model,Restaurants
+CARTE X6314 25/07 POKAWA,Restaurants,0.40138338596361584,Shopping,claude,Restaurants
+PAIEMENT PAR CARTE FLUNCH 27/03,Restaurants,0.21899871497978032,Groceries,claude,Restaurants
+CB POKAWA AIX-EN-PROVEN 05/02,Restaurants,0.3448572572235301,Shopping,claude,Restaurants
+PAIEMENT CB 07/02 LE HAVRE LEON DE BRUXELLES,Restaurants,0.19263431267548078,Groceries,claude,Restaurants
+CB EXKI 03/06,Restaurants,0.6776982700641809,Shopping,claude,Restaurants
+CARTE X2288 09/05 EXKI,Restaurants,0.43110853113803393,Shopping,claude,Restaurants
+CARTE X6724 01/01 BRASSERIE DU MARCHE,Restaurants,0.3390686711346374,Shopping,claude,Restaurants
+PAIEMENT PAR CARTE BRASSERIE DU MARCHE 17/01,Restaurants,0.35174855565385227,Shopping,claude,Restaurants
+CB BRASSERIE DU MARCHE 08/06,Restaurants,0.44575572075753117,Shopping,claude,Restaurants
+CB DELIVEROO 04/06,Restaurants,0.2999444507843,Shopping,claude,Restaurants
+CB UBER EATS 03/03 CARTE X9312,Restaurants,0.3374437391540066,Shopping,claude,Restaurants
+PAIEMENT PAR CARTE UBER EATS 01/11,Restaurants,0.42021387131686117,Restaurants,claude,Restaurants
+CB KIBO 13/06 CARTE X9307,Restaurants,0.6288226354702181,Shopping,claude,Restaurants
+CB BUFFALO GRILL SAINT-DENIS 11/11,Restaurants,0.6218345272949891,Restaurants,claude,Restaurants
+CB LEON DE BRUXELLES PARIS 11 27/11,Restaurants,0.22690578170850106,Shopping,claude,Restaurants
+CB LEON DE BRUXELLES 19/07,Restaurants,0.2720828901223561,Restaurants,claude,Restaurants
+PAIEMENT PAR CARTE DELIVEROO 09/05,Restaurants,0.22439985251983766,Shopping,claude,Restaurants
+CARTE 14/08 UBER EATS NANTERRE,Restaurants,0.28930697420206536,Restaurants,claude,Restaurants
+CARTE 08/07 FLUNCH CRETEIL,Restaurants,0.2789702162482812,Restaurants,claude,Restaurants
+CARTE X5128 05/02 LEON DE BRUXELLES,Restaurants,0.25202152464150973,Restaurants,claude,Restaurants
+CB EXKI 31/12 CARTE X4711,Restaurants,0.641375170249977,Shopping,claude,Restaurants
+CARTE X9843 03/05 EXKI,Restaurants,0.43110853113803393,Shopping,claude,Restaurants
+CARTE 08/03 UBER EATS SAINT-DENIS,Restaurants,0.3182210041899968,Restaurants,claude,Restaurants
+CARTE 08/04 DELIVEROO NIMES,Restaurants,0.2604964114778407,Shopping,claude,Restaurants
+CB POKAWA VERSAILLES 04/10,Restaurants,0.49881309549895125,Shopping,claude,Restaurants
+CB KIBO 25/08,Restaurants,0.5676317398644105,Shopping,claude,Restaurants
+CB DELIVEROO 21/07 CARTE X9452,Restaurants,0.3522390567773436,Shopping,claude,Restaurants
+CARTE 04/10 EXKI STRASBOURG,Restaurants,0.24678388866931505,Shopping,claude,Restaurants
+CARTE 14/12 UBER EATS DIJON,Restaurants,0.5656244390561074,Restaurants,claude,Restaurants
+CARTE 26/09 UBER EATS LYON 3,Restaurants,0.2495212626895851,Restaurants,claude,Restaurants
+CARTE 20/03 EXKI NIMES,Restaurants,0.48758360986826427,Shopping,claude,Restaurants
+PAIEMENT PAR CARTE LEON DE BRUXELLES 15/07,Restaurants,0.21973106335242173,Restaurants,claude,Restaurants
+CB BRASSERIE DU MARCHE 08/08,Restaurants,0.44575572075753117,Shopping,claude,Restaurants
+CB FLUNCH LA DEFENSE 10/04,Restaurants,0.20563159362355488,Subscriptions,claude,Restaurants
+CB BRASSERIE DU MARCHE 31/03 CARTE X2821,Restaurants,0.42560146910318086,Shopping,claude,Restaurants
+PAIEMENT CB 17/05 VILLEURBANNE KIBO,Restaurants,0.5803157123499065,Shopping,claude,Restaurants
+CB POKAWA 03/11 CARTE X7338,Shopping,0.7018632131929206,Shopping,model,Restaurants
+CARTE 13/08 BRASSERIE DU MARCHE VERSAILLES,Restaurants,0.26543847336903126,Shopping,claude,Restaurants
+PAIEMENT CB 20/06 ANGERS KIBO,Restaurants,0.31920340782883194,Shopping,claude,Restaurants
+CB EXKI LE HAVRE 30/08,Restaurants,0.4071979232018454,Shopping,claude,Restaurants
+PAIEMENT PAR CARTE DELIVEROO 17/09,Restaurants,0.22439985251983766,Shopping,claude,Restaurants
+CARTE X7553 05/04 DELIVEROO,Restaurants,0.22046298893756675,Transport,claude,Restaurants
+CB KIBO 08/06,Restaurants,0.5676317398644105,Shopping,claude,Restaurants
+CB DELIVEROO 01/02 CARTE X1939,Restaurants,0.3522390567773436,Shopping,claude,Restaurants
+CARTE X6067 12/11 HEETCH,Transport,0.3046246295899004,Restaurants,claude,Transport
+CB APRR 01/03,Transport,0.41819255279980894,Shopping,claude,Transport
+PRLV SEPA AUTOROUTES DU SUD FR21ZZZ046963,Transport,0.5821803516186268,Transport,claude,Transport
+PAIEMENT PAR CARTE HEETCH 24/09,Transport,0.2108106875000346,Restaurants,claude,Transport
+CB HERTZ 15/11 CARTE X7329,Transport,0.449463591052603,Shopping,claude,Transport
+PRLV TER 03/05,Transport,0.47105005624223656,Housing & Utilities,claude,Transport
+PRLV TER 29/09,Transport,0.47105005624223656,Housing & Utilities,claude,Transport
+PAIEMENT CB 06/05 NIMES COFIROUTE,Transport,0.27829852276735606,Groceries,claude,Transport
+CB ZITY 01/06 CARTE X6040,Transport,0.5958256276161006,Shopping,claude,Transport
+PRLV SEPA AUTOROUTES DU SUD,Transport,0.5821803516186268,Transport,claude,Transport
+CB HERTZ 18/07,Transport,0.3654208098908674,Shopping,claude,Transport
+PRLV IZIVIA 21/04,Transport,0.4092566020923993,Housing & Utilities,claude,Transport
+PAIEMENT CB 27/06 TOULOUSE ZITY,Transport,0.3188278850266322,Shopping,claude,Transport
+PAIEMENT PAR CARTE APRR 28/08,Transport,0.25260534191240436,Shopping,claude,Transport
+PAIEMENT PAR CARTE HEETCH 23/02,Transport,0.2108106875000346,Restaurants,claude,Transport
+PRLV SEPA TER,Transport,0.41458089300916956,Housing & Utilities,claude,Transport
+PRLV SEPA TER FR67ZZZ661825,Transport,0.41458089300916956,Housing & Utilities,claude,Transport
+PAIEMENT PAR CARTE ESSO 19/03,Transport,0.27199477728686705,Shopping,claude,Transport
+PAIEMENT CB 04/11 LYON 3 ESSO,Transport,0.46106168087417293,Shopping,claude,Transport
+PRLV SEPA IZIVIA FR83ZZZ028439,Transport,0.38608412655473184,Housing & Utilities,claude,Transport
+PRELEVEMENT AUTOROUTES DU SUD REF FR99ZZZ534283,Transport,0.5917488058114254,Transport,claude,Transport
+PRLV IZIVIA 28/04,Transport,0.4092566020923993,Housing & Utilities,claude,Transport
+CB COFIROUTE 18/10,Transport,0.2546990467516253,Groceries,claude,Transport
+PAIEMENT CB 24/07 LYON 3 COFIROUTE,Transport,0.3064150902018238,Shopping,claude,Transport
+CARTE X4015 25/04 UBER *TRIP,Transport,0.24863741018736832,Groceries,claude,Transport
+PAIEMENT PAR CARTE HERTZ 03/07,Transport,0.22248809046786513,Shopping,claude,Transport
+PRELEVEMENT IZIVIA REF FR08ZZZ621182,Transport,0.3311702566764939,Transport,claude,Transport
+PAIEMENT CB 29/01 LYON ESSO,Transport,0.5048822064413844,Shopping,claude,Transport
+PRELEVEMENT AUTOROUTES DU SUD REF FR80ZZZ339740,Transport,0.5917488058114254,Transport,claude,Transport
+PRELEVEMENT AUTOROUTES DU SUD REF FR90ZZZ250392,Transport,0.5917488058114254,Transport,claude,Transport
+PRELEVEMENT TER REF FR58ZZZ662961,Transport,0.3226468911250591,Housing & Utilities,claude,Transport
+PRLV SEPA TER FR12ZZZ678886,Transport,0.41458089300916956,Housing & Utilities,claude,Transport
+CARTE X8121 21/12 HERTZ,Transport,0.2657977038479034,Shopping,claude,Transport
+PRLV SEPA AUTOROUTES DU SUD FR37ZZZ993712,Transport,0.5821803516186268,Transport,claude,Transport
+PRLV SEPA IZIVIA FR37ZZZ416724,Transport,0.38608412655473184,Housing & Utilities,claude,Transport
+PRLV SEPA IZIVIA FR35ZZZ290965,Transport,0.38608412655473184,Housing & Utilities,claude,Transport
+CB COFIROUTE BOULOGNE-BILL 28/12,Transport,0.2788452833798291,Subscriptions,claude,Transport
+CARTE X5298 01/12 ESSO,Transport,0.37976391325257725,Transport,claude,Transport
+PRLV TER 13/02,Transport,0.47105005624223656,Housing & Utilities,claude,Transport
+PRLV SEPA TER FR74ZZZ225790,Transport,0.41458089300916956,Housing & Utilities,claude,Transport
+PRLV SEPA TER FR79ZZZ788191,Transport,0.41458089300916956,Housing & Utilities,claude,Transport
+CARTE X4390 29/08 HEETCH,Transport,0.3046246295899004,Restaurants,claude,Transport
+PRELEVEMENT TER REF FR09ZZZ584982,Transport,0.3226468911250591,Housing & Utilities,claude,Transport
+PRELEVEMENT IZIVIA REF FR25ZZZ367294,Transport,0.3311702566764939,Transport,claude,Transport
+CB ESSO 22/02 CARTE X1040,Transport,0.40124503534267597,Shopping,claude,Transport
+PRLV AUTOROUTES DU SUD 04/09,Transport,0.5135613781978945,Transport,claude,Transport
+CARTE X1793 10/07 UBER *TRIP,Transport,0.24863741018736832,Groceries,claude,Transport
+PAIEMENT PAR CARTE ZITY 25/07,Transport,0.3172044744113197,Shopping,claude,Transport
+CB HERTZ 12/09,Transport,0.3654208098908674,Shopping,claude,Transport
+PRLV SEPA IZIVIA FR48ZZZ666188,Transport,0.38608412655473184,Housing & Utilities,claude,Transport
+CARTE X3877 02/08 SANEF,Transport,0.39524685460537334,Shopping,claude,Transport
+PRLV SEPA AUTOROUTES DU SUD FR10ZZZ202758,Transport,0.5821803516186268,Transport,claude,Transport
+CARTE X7274 08/03 SANEF,Transport,0.39524685460537334,Shopping,claude,Transport
+CB ESSO 31/01 CARTE X2276,Transport,0.40124503534267597,Shopping,claude,Transport
+PAIEMENT PAR CARTE HERTZ 23/09,Transport,0.22248809046786513,Shopping,claude,Transport
+PRELEVEMENT AUTOROUTES DU SUD REF FR38ZZZ320603,Transport,0.5917488058114254,Transport,claude,Transport
+PRELEVEMENT AUTOROUTES DU SUD REF FR65ZZZ719182,Transport,0.5917488058114254,Transport,claude,Transport
+PRLV TER 08/02,Transport,0.47105005624223656,Housing & Utilities,claude,Transport
+PRELEVEMENT AUTOROUTES DU SUD REF FR21ZZZ277561,Transport,0.5917488058114254,Transport,claude,Transport
+CB HERTZ 26/11,Transport,0.3654208098908674,Shopping,claude,Transport
+PRLV AUTOROUTES DU SUD 15/03,Transport,0.5135613781978945,Transport,claude,Transport
+PRLV SEPA IZIVIA FR03ZZZ965223,Transport,0.38608412655473184,Housing & Utilities,claude,Transport
+CARTE 10/05 ESSO NANTES,Transport,0.2592151871331013,Shopping,claude,Transport
+PRELEVEMENT IZIVIA REF FR67ZZZ528953,Transport,0.3311702566764939,Transport,claude,Transport
+CB SANEF 22/12,Transport,0.5347239905650213,Shopping,claude,Transport
+PRLV SEPA IZIVIA,Transport,0.38608412655473184,Housing & Utilities,claude,Transport
+PRLV SEPA AUTOROUTES DU SUD FR54ZZZ115262,Transport,0.5821803516186268,Transport,claude,Transport
+CB SANEF 04/02 CARTE X5872,Transport,0.5063611843538786,Shopping,claude,Transport
+PRLV SEPA IZIVIA FR37ZZZ416089,Transport,0.38608412655473184,Housing & Utilities,claude,Transport
+PRLV AUTOROUTES DU SUD 08/01,Transport,0.5135613781978945,Transport,claude,Transport
+PAIEMENT CB 16/08 ANGERS COFIROUTE,Transport,0.34098172041880825,Groceries,claude,Transport
+PRLV IZIVIA 19/04,Transport,0.4092566020923993,Housing & Utilities,claude,Transport
+CARTE 01/11 COFIROUTE NANTERRE,Transport,0.2507582861382015,Transport,claude,Transport
+CB HEETCH 24/09,Transport,0.26267769457277645,Shopping,claude,Transport
+CB ESSO PARIS 15 13/07,Transport,0.2555911889080201,Shopping,claude,Transport
+CARTE X8775 25/12 HEETCH,Transport,0.3046246295899004,Restaurants,claude,Transport
+PRLV SEPA IZIVIA FR98ZZZ552414,Transport,0.38608412655473184,Housing & Utilities,claude,Transport
+PRELEVEMENT AUTOROUTES DU SUD REF FR99ZZZ441715,Transport,0.5917488058114254,Transport,claude,Transport
+PRLV TER 26/01,Transport,0.47105005624223656,Housing & Utilities,claude,Transport
+CB HEETCH 27/01 CARTE X5817,Transport,0.4145666622129842,Shopping,claude,Transport
+PRLV SEPA AUTOROUTES DU SUD FR38ZZZ168460,Transport,0.5821803516186268,Transport,claude,Transport
+PAIEMENT CB 09/03 TOULON HERTZ,Transport,0.26782685301370546,Shopping,claude,Transport
+CARTE 05/06 SANEF TOULON,Transport,0.2656886538187633,Shopping,claude,Transport
+PRLV SEPA AUTOROUTES DU SUD FR00ZZZ167618,Transport,0.5821803516186268,Transport,claude,Transport
+PAIEMENT PAR CARTE ZITY 05/10,Transport,0.3172044744113197,Shopping,claude,Transport
+PAIEMENT PAR CARTE UBER *TRIP 08/08,Transport,0.325814843404155,Leisure & Travel,claude,Transport
+PRLV IZIVIA 07/09,Transport,0.4092566020923993,Housing & Utilities,claude,Transport
+CARTE X7909 24/08 ESSO,Transport,0.37976391325257725,Transport,claude,Transport
+PRELEVEMENT IZIVIA REF FR67ZZZ014508,Transport,0.3311702566764939,Transport,claude,Transport
+PAIEMENT PAR CARTE ZITY 07/05,Transport,0.3172044744113197,Shopping,claude,Transport
+PRLV LE MONDE 29/06,Subscriptions,0.3074511561159564,Housing & Utilities,claude,Subscriptions
+PRLV LE MONDE 12/08,Subscriptions,0.3074511561159564,Housing & Utilities,claude,Subscriptions
+PRLV SEPA L EXPRESS,Subscriptions,0.2948167815133503,Transport,claude,Subscriptions
+CB CRUNCHYROLL LYON 3 13/04,Subscriptions,0.39915218957895526,Subscriptions,claude,Subscriptions
+PAIEMENT CB 04/04 AIX-EN-PROVEN MIDJOURNEY,Subscriptions,0.20365159399479146,Groceries,claude,Subscriptions
+CB 1PASSWORD 11/10 CARTE X9328,Subscriptions,0.40179585852719135,Shopping,claude,Subscriptions
+CB 1PASSWORD LYON 29/03,Subscriptions,0.29208072559959447,Subscriptions,claude,Subscriptions
+PRELEVEMENT L EXPRESS REF FR84ZZZ858333,Subscriptions,0.26320708887527255,Subscriptions,claude,Subscriptions
+PRLV LE MONDE 09/08,Subscriptions,0.3074511561159564,Housing & Utilities,claude,Subscriptions
+PAIEMENT PAR CARTE YOUTUBE PREMIUM 14/06,Subscriptions,0.792612830664284,Subscriptions,model,Subscriptions
+CB 1PASSWORD 20/05,Subscriptions,0.28962498251365837,Shopping,claude,Subscriptions
+PRLV DAZN 10/04,Subscriptions,0.47911966965815334,Housing & Utilities,claude,Subscriptions
+CARTE X7626 11/04 AMAZON PRIME,Subscriptions,0.5163998488705749,Subscriptions,claude,Subscriptions
+PRELEVEMENT DAZN REF FR06ZZZ180919,Subscriptions,0.27469016144009034,Housing & Utilities,claude,Subscriptions
+CB MICROSOFT*365 28/11 CARTE X5748,Subscriptions,0.43480212076436225,Groceries,claude,Subscriptions
+CB CRUNCHYROLL 19/08 CARTE X5937,Subscriptions,0.2743172327918594,Restaurants,claude,Subscriptions
+PRLV SEPA DAZN,Subscriptions,0.527556296757798,Housing & Utilities,claude,Subscriptions
+PRELEVEMENT DAZN REF FR68ZZZ424508,Subscriptions,0.27469016144009034,Housing & Utilities,claude,Subscriptions
+CARTE 21/05 MICROSOFT*365 GRENOBLE,Subscriptions,0.2998064382630259,Groceries,claude,Subscriptions
+PRLV L EXPRESS 24/04,Subscriptions,0.2124670402744545,Transport,claude,Subscriptions
+PRLV SEPA LE MONDE,Subscriptions,0.35937953619184393,Housing & Utilities,claude,Subscriptions
+CARTE X6961 21/03 YOUTUBE PREMIUM,Subscriptions,0.9039034002627135,Subscriptions,model,Subscriptions
+PRELEVEMENT L EXPRESS REF FR92ZZZ750373,Subscriptions,0.26320708887527255,Subscriptions,claude,Subscriptions
+PRELEVEMENT DAZN REF FR46ZZZ386557,Subscriptions,0.27469016144009034,Housing & Utilities,claude,Subscriptions
+PRLV SEPA LE MONDE FR84ZZZ322259,Subscriptions,0.35937953619184393,Housing & Utilities,claude,Subscriptions
+CARTE X3641 04/06 CRUNCHYROLL,Subscriptions,0.319337625138158,Restaurants,claude,Subscriptions
+PRLV SEPA DAZN FR60ZZZ302992,Subscriptions,0.527556296757798,Housing & Utilities,claude,Subscriptions
+CB MIDJOURNEY AIX-EN-PROVEN 22/08,Subscriptions,0.2371446090371584,Subscriptions,claude,Subscriptions
+PRELEVEMENT L EXPRESS REF FR56ZZZ512694,Subscriptions,0.26320708887527255,Subscriptions,claude,Subscriptions
+CARTE X6544 19/08 MIDJOURNEY,Subscriptions,0.1986558536950602,Groceries,claude,Subscriptions
+PRELEVEMENT LE MONDE REF FR66ZZZ984902,Subscriptions,0.21915652900877244,Housing & Utilities,claude,Subscriptions
+PAIEMENT CB 29/06 RENNES YOUTUBE PREMIUM,Subscriptions,0.7757924831331995,Subscriptions,model,Subscriptions
+PRELEVEMENT DAZN REF FR18ZZZ489554,Subscriptions,0.27469016144009034,Housing & Utilities,claude,Subscriptions
+PAIEMENT PAR CARTE MIDJOURNEY 24/05,Subscriptions,0.2063666643216113,Groceries,claude,Subscriptions
+PAIEMENT CB 22/01 ANGERS 1PASSWORD,Subscriptions,0.25986360060854097,Groceries,claude,Subscriptions
+PRELEVEMENT LE MONDE REF FR16ZZZ518275,Subscriptions,0.21915652900877244,Housing & Utilities,claude,Subscriptions
+PRLV SEPA DAZN FR90ZZZ612034,Subscriptions,0.527556296757798,Housing & Utilities,claude,Subscriptions
+PRELEVEMENT DAZN REF FR58ZZZ771694,Subscriptions,0.27469016144009034,Housing & Utilities,claude,Subscriptions
+CARTE X3373 20/06 MICROSOFT*365,Subscriptions,0.3577987872645634,Groceries,claude,Subscriptions
+PRLV L EXPRESS 10/06,Subscriptions,0.2124670402744545,Transport,claude,Subscriptions
+CB CRUNCHYROLL 28/12,Subscriptions,0.38157727152295906,Subscriptions,claude,Subscriptions
+CB AUDIBLE 11/11 CARTE X8752,Subscriptions,0.2757658842292873,Shopping,claude,Subscriptions
+PRLV DAZN 15/06,Subscriptions,0.4791196189932504,Housing & Utilities,claude,Subscriptions
+CB 1PASSWORD 17/12 CARTE X2381,Subscriptions,0.40179585852719135,Shopping,claude,Subscriptions
+PRLV LE MONDE 10/05,Subscriptions,0.3074511561159564,Housing & Utilities,claude,Subscriptions
+PRELEVEMENT DAZN REF FR84ZZZ578317,Subscriptions,0.27469016144009034,Housing & Utilities,claude,Subscriptions
+PRLV SEPA DAZN FR64ZZZ930853,Subscriptions,0.527556296757798,Housing & Utilities,claude,Subscriptions
+CB MICROSOFT*365 20/03,Subscriptions,0.3555887094354168,Shopping,claude,Subscriptions
+CB 1PASSWORD 20/12,Subscriptions,0.28962499562783023,Shopping,claude,Subscriptions
+PRLV L EXPRESS 03/08,Subscriptions,0.2124670402744545,Transport,claude,Subscriptions
+PAIEMENT CB 10/05 VERSAILLES AMAZON PRIME,Subscriptions,0.45152626941696583,Subscriptions,claude,Subscriptions
+PRLV L EXPRESS 22/08,Subscriptions,0.2124670402744545,Transport,claude,Subscriptions
+PRELEVEMENT LE MONDE REF FR88ZZZ619576,Subscriptions,0.21915652900877244,Housing & Utilities,claude,Subscriptions
+PRLV SEPA L EXPRESS FR86ZZZ852897,Subscriptions,0.2948167815133503,Transport,claude,Subscriptions
+PAIEMENT PAR CARTE CRUNCHYROLL 12/03,Subscriptions,0.2226972098540898,Subscriptions,claude,Subscriptions
+CB AUDIBLE 28/01,Subscriptions,0.22392799390123388,Shopping,claude,Subscriptions
+PRLV SEPA DAZN FR93ZZZ344196,Subscriptions,0.527556296757798,Housing & Utilities,claude,Subscriptions
+PRELEVEMENT DAZN REF FR31ZZZ572791,Subscriptions,0.27469016144009034,Housing & Utilities,claude,Subscriptions
+CB CRUNCHYROLL VILLEURBANNE 06/07,Subscriptions,0.2889997623225014,Subscriptions,claude,Subscriptions
+PRLV SEPA DAZN FR64ZZZ168622,Subscriptions,0.527556296757798,Housing & Utilities,claude,Subscriptions
+CB AUDIBLE 08/03,Subscriptions,0.22392799390123388,Shopping,claude,Subscriptions
+CB MIDJOURNEY SAINT-DENIS 17/06,Subscriptions,0.23746705776998325,Groceries,claude,Subscriptions
+PRLV LE MONDE 07/11,Subscriptions,0.3074511561159564,Housing & Utilities,claude,Subscriptions
+PAIEMENT PAR CARTE YOUTUBE PREMIUM 03/08,Subscriptions,0.792612830664284,Subscriptions,model,Subscriptions
+CB 1PASSWORD 10/07 CARTE X6765,Subscriptions,0.40179585852719135,Shopping,claude,Subscriptions
+CARTE 17/01 CRUNCHYROLL NANTES,Subscriptions,0.2662481775242324,Health,claude,Subscriptions
+PRLV SEPA DAZN FR09ZZZ656999,Subscriptions,0.527556296757798,Housing & Utilities,claude,Subscriptions
+PRELEVEMENT LE MONDE REF FR80ZZZ817703,Subscriptions,0.21915652900877244,Housing & Utilities,claude,Subscriptions
+PRLV SEPA LE MONDE FR86ZZZ803476,Subscriptions,0.35937953619184393,Housing & Utilities,claude,Subscriptions
+PRLV SEPA LE MONDE FR44ZZZ726490,Subscriptions,0.35937953619184393,Housing & Utilities,claude,Subscriptions
+CB AUDIBLE 06/05,Subscriptions,0.22392799390123388,Shopping,claude,Subscriptions
+PRLV SEPA DAZN FR01ZZZ455616,Subscriptions,0.527556296757798,Housing & Utilities,claude,Subscriptions
+CB YOUTUBE PREMIUM STRASBOURG 27/03,Subscriptions,0.841823708542406,Subscriptions,model,Subscriptions
+CB 1PASSWORD 26/07,Subscriptions,0.28962499562783023,Shopping,claude,Subscriptions
+PRLV LE MONDE 26/09,Subscriptions,0.3074511561159564,Housing & Utilities,claude,Subscriptions
+PRLV DAZN 24/08,Subscriptions,0.47911966965815334,Housing & Utilities,claude,Subscriptions
+PRLV LE MONDE 23/02,Subscriptions,0.3074511561159564,Housing & Utilities,claude,Subscriptions
+CARTE X6549 13/06 CRUNCHYROLL,Subscriptions,0.319337625138158,Restaurants,claude,Subscriptions
+PRELEVEMENT DAZN REF FR29ZZZ979545,Subscriptions,0.27469016144009034,Housing & Utilities,claude,Subscriptions
+PAIEMENT PAR CARTE YOUTUBE PREMIUM 12/01,Subscriptions,0.792612830664284,Subscriptions,model,Subscriptions
+PRLV L EXPRESS 12/11,Subscriptions,0.2124670402744545,Transport,claude,Subscriptions
+CB YOUTUBE PREMIUM 31/08 CARTE X3276,Subscriptions,0.8485828795611352,Subscriptions,model,Subscriptions
+CB 1PASSWORD 27/09 CARTE X1003,Subscriptions,0.40179585852719135,Shopping,claude,Subscriptions
+CB MICROSOFT*365 19/09 CARTE X1510,Subscriptions,0.43480212076436225,Groceries,claude,Subscriptions
+PRELEVEMENT DAZN REF FR20ZZZ102762,Subscriptions,0.27469016144009034,Housing & Utilities,claude,Subscriptions
+PRELEVEMENT LE MONDE REF FR12ZZZ847818,Subscriptions,0.21915652900877244,Housing & Utilities,claude,Subscriptions
+CB MIDJOURNEY 13/02 CARTE X5267,Subscriptions,0.3103621135176547,Shopping,claude,Subscriptions
+CARTE X6463 06/03 YOUTUBE PREMIUM,Subscriptions,0.9039034002627135,Subscriptions,model,Subscriptions
+PRLV SEPA LE MONDE FR11ZZZ799313,Subscriptions,0.35937953619184393,Housing & Utilities,claude,Subscriptions
+CB LEROY MERLIN PARIS 11 10/08,Housing & Utilities,0.2996039181174055,Shopping,claude,Shopping
+PAIEMENT PAR CARTE DIMSPORT 11/12,Leisure & Travel,0.26836753531744384,Shopping,claude,Shopping
+CB DIMSPORT 20/05,Leisure & Travel,0.4061185186357835,Shopping,claude,Shopping
+PAIEMENT CB 06/04 VERSAILLES LEBONCOIN,Shopping,0.22979189670618955,Groceries,claude,Shopping
+PAIEMENT PAR CARTE LA REDOUTE 06/01,Shopping,0.2617186914927938,Groceries,claude,Shopping
+CB AMAZON AIX-EN-PROVEN 02/02,Shopping,0.5416543833991743,Subscriptions,claude,Shopping
+CB LEBONCOIN 01/01,Shopping,0.29434577339826223,Shopping,claude,Shopping
+CB DIMSPORT 11/07 CARTE X8772,Leisure & Travel,0.41433021349898175,Shopping,claude,Shopping
+CB LEROY MERLIN 07/11 CARTE X6966,Shopping,0.2645660306696368,Shopping,claude,Shopping
+CB IKEA 05/02 CARTE X4433,Shopping,0.4155709011046187,Shopping,claude,Shopping
+CARTE X5118 04/04 AMAZON MKTPLACE,Shopping,0.593957716202881,Subscriptions,claude,Shopping
+CARTE X1859 01/08 DOUGLAS,Shopping,0.23515557210442503,Shopping,claude,Shopping
+CARTE 02/12 LEROY MERLIN MONTREUIL,Shopping,0.15919506713478748,Restaurants,claude,Shopping
+CARTE X4615 12/03 BOULANGER,Shopping,0.5649948882181549,Restaurants,claude,Shopping
+CARTE 13/10 BOOSTER BORDEAUX,Leisure & Travel,0.2360080650002896,Transport,claude,Shopping
+CB PULL AND BEAR 30/01 CARTE X4313,Shopping,0.34109738561574954,Shopping,claude,Shopping
+CARTE X9548 15/09 PULL AND BEAR,Shopping,0.24752198163271377,Restaurants,claude,Shopping
+CARTE X4546 25/04 BOOSTER,Leisure & Travel,0.26193783740837656,Transport,claude,Shopping
+PAIEMENT CB 28/07 TOULOUSE BOOSTER,Leisure & Travel,0.21511822913214665,Restaurants,claude,Shopping
+PAIEMENT PAR CARTE LEBONCOIN 29/03,Shopping,0.23263890020769132,Groceries,claude,Shopping
+PAIEMENT CB 18/07 MARSEILLE BOOSTER,Leisure & Travel,0.21926669874876803,Shopping,claude,Shopping
+CARTE X9841 18/01 AMAZON MKTPLACE,Shopping,0.593957716202881,Subscriptions,claude,Shopping
+CARTE X8839 01/12 LEROY MERLIN,Housing & Utilities,0.1450671603510262,Groceries,claude,Shopping
+CB PULL AND BEAR 19/02,Shopping,0.2936903163956028,Subscriptions,claude,Shopping
+CARTE 24/04 AMAZON MKTPLACE MONTPELLIER,Shopping,0.5919469201654456,Subscriptions,claude,Shopping
+PAIEMENT CB 11/04 ARGENTEUIL DIMSPORT,Leisure & Travel,0.34552944756287646,Groceries,claude,Shopping
+CARTE 24/08 DOUGLAS RENNES,Health,0.26854835281847095,Shopping,claude,Shopping
+CARTE X2313 20/11 LEROY MERLIN,Housing & Utilities,0.1450671603510262,Groceries,claude,Shopping
+CARTE 29/11 AMAZON MKTPLACE DIJON,Shopping,0.6996784635366398,Subscriptions,claude,Shopping
+CB LA REDOUTE SAINT-DENIS 29/06,Shopping,0.2582519867342551,Restaurants,claude,Shopping
+CB DIMSPORT REIMS 24/04,Leisure & Travel,0.3596148376066779,Groceries,claude,Shopping
+CB AMAZON MKTPLACE LE HAVRE 08/04,Subscriptions,0.7208706414080595,Subscriptions,model,Shopping
+PAIEMENT CB 01/10 AIX-EN-PROVEN LEBONCOIN,Shopping,0.23447273789122816,Groceries,claude,Shopping
+CB DIMSPORT BOULOGNE-BILL 07/04,Leisure & Travel,0.2773217226403161,Shopping,claude,Shopping
+CARTE X9625 01/06 AMAZON,Shopping,0.4651005068017431,Subscriptions,claude,Shopping
+CB BOULANGER 12/01 CARTE X5553,Shopping,0.4643210499254488,Restaurants,claude,Shopping
+PAIEMENT PAR CARTE LEGO STORE 18/02,Shopping,0.47980629276138387,Shopping,claude,Shopping
+PAIEMENT PAR CARTE PULL AND BEAR 08/11,Shopping,0.22500408004781125,Shopping,claude,Shopping
+PAIEMENT CB 03/03 MONTREUIL AMAZON MKTPLACE,Shopping,0.5700910832800542,Subscriptions,claude,Shopping
+CB AMAZON MKTPLACE 26/08 CARTE X8249,Shopping,0.4978809689357633,Subscriptions,claude,Shopping
+PAIEMENT PAR CARTE IKEA 12/12,Shopping,0.216554975684908,Subscriptions,claude,Shopping
+PAIEMENT PAR CARTE AMAZON MKTPLACE 27/03,Shopping,0.5965467428560476,Subscriptions,claude,Shopping
+CARTE X8571 21/05 AMAZON MKTPLACE,Shopping,0.593957716202881,Subscriptions,claude,Shopping
+CARTE 06/09 DIMSPORT STRASBOURG,Leisure & Travel,0.3350446412330669,Groceries,claude,Shopping
+CARTE X9037 07/02 DIMSPORT,Leisure & Travel,0.3463777546932697,Shopping,claude,Shopping
+CB BOOSTER 16/12,Leisure & Travel,0.24224233783044938,Leisure & Travel,claude,Shopping
+CARTE 11/02 PULL AND BEAR LYON 3,Shopping,0.2629192915091261,Subscriptions,claude,Shopping
+PAIEMENT PAR CARTE DOUGLAS 27/04,Shopping,0.2321903047814253,Groceries,claude,Shopping
+PAIEMENT PAR CARTE AMAZON MKTPLACE 07/06,Shopping,0.5965467428560476,Subscriptions,claude,Shopping
+CARTE X8799 18/06 DIMSPORT,Leisure & Travel,0.3463777546932697,Shopping,claude,Shopping
+PAIEMENT CB 15/04 MARSEILLE LEROY MERLIN,Shopping,0.28839257925172956,Shopping,claude,Shopping
+CARTE 07/11 LA REDOUTE PARIS 15,Shopping,0.3003434264437438,Restaurants,claude,Shopping
+CB PULL AND BEAR LYON 3 23/06,Shopping,0.30992521604061396,Subscriptions,claude,Shopping
+PAIEMENT PAR CARTE LEROY MERLIN 11/08,Shopping,0.20121055682517733,Groceries,claude,Shopping
+CB LEBONCOIN 24/11 CARTE X9755,Shopping,0.4246769725116776,Shopping,claude,Shopping
+PAIEMENT PAR CARTE PULL AND BEAR 02/09,Shopping,0.22500408004781125,Shopping,claude,Shopping
+CB BOULANGER SAINT-DENIS 23/10,Shopping,0.5746367825471088,Restaurants,claude,Shopping
+CB AMAZON MKTPLACE 11/03 CARTE X8944,Shopping,0.4978809689357633,Subscriptions,claude,Shopping
+PAIEMENT CB 27/03 GRENOBLE BOOSTER,Leisure & Travel,0.22588481340955835,Subscriptions,claude,Shopping
+CB BOOSTER 22/08,Leisure & Travel,0.24224233783044938,Leisure & Travel,claude,Shopping
+CB DIMSPORT 21/07,Leisure & Travel,0.4061185186357835,Shopping,claude,Shopping
+PAIEMENT PAR CARTE BOULANGER 08/10,Shopping,0.44590447304237496,Restaurants,claude,Shopping
+CB BOOSTER 28/09,Leisure & Travel,0.24224233783044938,Leisure & Travel,claude,Shopping
+CARTE X6604 10/08 AMAZON,Shopping,0.4651005068017431,Subscriptions,claude,Shopping
+CB IKEA SAINT-DENIS 12/01,Shopping,0.23769139615788695,Shopping,claude,Shopping
+PAIEMENT PAR CARTE AMAZON 05/06,Shopping,0.4809792131273771,Subscriptions,claude,Shopping
+PAIEMENT CB 05/10 GRENOBLE PULL AND BEAR,Shopping,0.3071475634049942,Subscriptions,claude,Shopping
+CB LA REDOUTE 12/02,Shopping,0.2050272546858799,Groceries,claude,Shopping
+CB AMAZON MKTPLACE NICE 07/08,Subscriptions,0.7499285992280009,Subscriptions,model,Shopping
+CB IKEA 29/10,Shopping,0.4460155868707394,Shopping,claude,Shopping
+CB LEBONCOIN 03/10,Shopping,0.29434574552360715,Shopping,claude,Shopping
+CB DIMSPORT LYON 3 10/10,Leisure & Travel,0.34917077316870937,Shopping,claude,Shopping
+PAIEMENT PAR CARTE IKEA 09/03,Shopping,0.216554975684908,Subscriptions,claude,Shopping
+PAIEMENT CB 09/01 LE HAVRE LEROY MERLIN,Shopping,0.19780292740747685,Groceries,claude,Shopping
+CB LEBONCOIN 22/05 CARTE X1665,Shopping,0.4246769725116776,Shopping,claude,Shopping
+CB IKEA LE HAVRE 18/11,Shopping,0.23763233909661838,Shopping,claude,Shopping
+CARTE X8273 11/07 LA REDOUTE,Shopping,0.20777244598159172,Restaurants,claude,Shopping
+PAIEMENT CB 30/12 NANTES LEROY MERLIN,Shopping,0.2428891116580475,Groceries,claude,Shopping
+CARTE 30/09 AMAZON VERSAILLES,Shopping,0.4480650920305843,Subscriptions,claude,Shopping
+CB DIMSPORT 17/10 CARTE X7020,Shopping,0.41433021349898175,Shopping,claude,Shopping
+CB LEBONCOIN 08/05 CARTE X2392,Shopping,0.4246769725116776,Shopping,claude,Shopping
+CARTE X7563 20/03 LA REDOUTE,Shopping,0.20777244598159172,Restaurants,claude,Shopping
+CARTE X6548 03/01 LEBONCOIN,Shopping,0.33220192868973314,Health,claude,Shopping
+CB LEGO STORE NIMES 08/09,Shopping,0.47675540959227164,Shopping,claude,Shopping
+CB AMAZON MKTPLACE BORDEAUX 05/03,Shopping,0.6857232256697033,Subscriptions,claude,Shopping
+CB LA REDOUTE PARIS 03/02,Shopping,0.25402943675160733,Restaurants,claude,Shopping
+CARTE X2631 29/10 BOOSTER,Shopping,0.26193783740837656,Transport,claude,Shopping
+CB IKEA 09/08 CARTE X2253,Shopping,0.4155709011046187,Shopping,claude,Shopping
+CB BOULANGER 18/05 CARTE X1289,Shopping,0.4643211327518069,Restaurants,claude,Shopping
+PAIEMENT CB 10/08 AIX-EN-PROVEN PULL AND BEAR,Shopping,0.32133178355374703,Subscriptions,claude,Shopping
+CARTE X1739 28/10 LEBONCOIN,Shopping,0.33220192868973314,Health,claude,Shopping
+CB LEGO STORE 06/12 CARTE X7003,Shopping,0.4905587268442107,Shopping,claude,Shopping
+CB LEBONCOIN 11/08,Shopping,0.29434574552360715,Shopping,claude,Shopping
+CB AMAZON MKTPLACE 20/09 CARTE X5995,Shopping,0.4978809689357633,Subscriptions,claude,Shopping
+CARTE 22/12 DOUGLAS NICE,Shopping,0.2561291882980132,Restaurants,claude,Shopping
+PAIEMENT CB 15/05 TOULON PULL AND BEAR,Shopping,0.24998118451036436,Leisure & Travel,claude,Shopping
+CB DOUGLAS 01/11,Shopping,0.4258408939431043,Shopping,claude,Shopping
+CARTE 30/06 LA REDOUTE LA DEFENSE,Shopping,0.169756722121398,Subscriptions,claude,Shopping
+PAIEMENT PAR CARTE IKEA 27/08,Shopping,0.216554975684908,Subscriptions,claude,Shopping
+CB BOULANGER 25/11,Shopping,0.5838430763746725,Restaurants,claude,Shopping
+PRLV SEPA EDF,Housing & Utilities,0.5396804289284522,Housing & Utilities,claude,Housing & Utilities
+VIR AGENCE FONCIA 06/02,Housing & Utilities,0.44542278937201735,Housing & Utilities,claude,Housing & Utilities
+VIR INST VERS AXA,Housing & Utilities,0.5823993259212938,Transfers,claude,Housing & Utilities
+VIREMENT EN FAVEUR DE AGENCE FONCIA,Housing & Utilities,0.5308918399596881,Housing & Utilities,claude,Housing & Utilities
+VIREMENT EN FAVEUR DE ALLIANZ,Housing & Utilities,0.6906620787010009,Transfers,claude,Housing & Utilities
+VIR SEPA EMIS VERS NEXITY,Housing & Utilities,0.6029378520720954,Housing & Utilities,claude,Housing & Utilities
+PRLV SEPA ALLIANZ FRANCE,Housing & Utilities,0.7521630698937977,Housing & Utilities,model,Housing & Utilities
+VIREMENT EN FAVEUR DE NEXITY,Housing & Utilities,0.43051399931803686,Housing & Utilities,claude,Housing & Utilities
+PRELEVEMENT ENERGIE DIRECTE REF FR17ZZZ342069,Housing & Utilities,0.7139684744967865,Housing & Utilities,model,Housing & Utilities
+PRLV EDF 23/10,Housing & Utilities,0.48187373077481643,Housing & Utilities,claude,Housing & Utilities
+PRELEVEMENT EDF REF FR43ZZZ626204,Housing & Utilities,0.3596136399810091,Housing & Utilities,claude,Housing & Utilities
+PRLV LEBARA FRANCE 05/10,Housing & Utilities,0.837867319467142,Housing & Utilities,model,Housing & Utilities
+PRLV SEPA RED BY SFR,Housing & Utilities,0.8022386017715578,Housing & Utilities,model,Housing & Utilities
+VIR INST VERS ALLIANZ,Housing & Utilities,0.6618056158336625,Transfers,claude,Housing & Utilities
+PRELEVEMENT LEBARA FRANCE REF FR65ZZZ926610,Housing & Utilities,0.7281001186111058,Housing & Utilities,model,Housing & Utilities
+PRELEVEMENT SOSH REF FR23ZZZ219416,Housing & Utilities,0.3147269384756504,Housing & Utilities,claude,Housing & Utilities
+VIR NEXITY 11/11,Housing & Utilities,0.5020236472901058,Housing & Utilities,claude,Housing & Utilities
+VIR ALLIANZ 30/01,Housing & Utilities,0.6230454920088395,Transfers,claude,Housing & Utilities
+PRLV SEPA LEBARA FRANCE FR15ZZZ619318,Housing & Utilities,0.8418608758168876,Housing & Utilities,model,Housing & Utilities
+PRELEVEMENT RED BY SFR REF FR65ZZZ328632,Housing & Utilities,0.7578030111150682,Housing & Utilities,model,Housing & Utilities
+PRLV SEPA SOSH FR66ZZZ678507,Housing & Utilities,0.633747414435509,Housing & Utilities,claude,Housing & Utilities
+VIR AXA 24/09,Housing & Utilities,0.5557259696527157,Transfers,claude,Housing & Utilities
+PRLV RED BY SFR 26/08,Housing & Utilities,0.8571397668569337,Housing & Utilities,model,Housing & Utilities
+PRLV PLENITUDE 23/03,Housing & Utilities,0.5070180462339267,Housing & Utilities,claude,Housing & Utilities
+PRELEVEMENT ALLIANZ FRANCE REF FR82ZZZ154544,Housing & Utilities,0.7008847322257202,Housing & Utilities,model,Housing & Utilities
+PRELEVEMENT PLENITUDE REF FR94ZZZ975679,Housing & Utilities,0.3624989633832263,Housing & Utilities,claude,Housing & Utilities
+PRLV EDF 24/08,Housing & Utilities,0.48187373077481643,Housing & Utilities,claude,Housing & Utilities
+PRLV SEPA ENERGIE DIRECTE,Housing & Utilities,0.7569610377442818,Housing & Utilities,model,Housing & Utilities
+PRELEVEMENT RED BY SFR REF FR01ZZZ820433,Housing & Utilities,0.7578030111150682,Housing & Utilities,model,Housing & Utilities
+PRELEVEMENT SOSH REF FR41ZZZ118242,Housing & Utilities,0.3147269384756504,Housing & Utilities,claude,Housing & Utilities
+VIR INST VERS AGENCE FONCIA,Housing & Utilities,0.5084934329060149,Housing & Utilities,claude,Housing & Utilities
+VIR SEPA EMIS VERS ALLIANZ,Housing & Utilities,0.6834178850938307,Transfers,claude,Housing & Utilities
+PRLV RED BY SFR 07/01,Housing & Utilities,0.8571397668569337,Housing & Utilities,model,Housing & Utilities
+PRLV SEPA LYCAMOBILE FRANCE FR79ZZZ502097,Housing & Utilities,0.7269573396442942,Housing & Utilities,model,Housing & Utilities
+PRELEVEMENT AXA FRANCE REF FR18ZZZ071569,Housing & Utilities,0.8004423963417153,Housing & Utilities,model,Housing & Utilities
+PRLV PLENITUDE 06/12,Housing & Utilities,0.5070180462339267,Housing & Utilities,claude,Housing & Utilities
+VIREMENT EN FAVEUR DE AXA,Housing & Utilities,0.6954601778816248,Transfers,claude,Housing & Utilities
+PRELEVEMENT LEBARA FRANCE REF FR07ZZZ049611,Housing & Utilities,0.7281001186111058,Housing & Utilities,model,Housing & Utilities
+PRLV SEPA PLENITUDE,Housing & Utilities,0.5050734436342516,Housing & Utilities,claude,Housing & Utilities
+PRLV ALLIANZ FRANCE 28/06,Housing & Utilities,0.7936936342984284,Housing & Utilities,model,Housing & Utilities
+PRLV SEPA AXA FRANCE,Housing & Utilities,0.835449685372816,Housing & Utilities,model,Housing & Utilities
+PRLV SEPA ENERGIE DIRECTE FR37ZZZ933756,Housing & Utilities,0.7569610377442818,Housing & Utilities,model,Housing & Utilities
+VIR NEXITY 26/09,Housing & Utilities,0.5020236472901058,Housing & Utilities,claude,Housing & Utilities
+VIR AXA 03/05,Housing & Utilities,0.5557259696527157,Transfers,claude,Housing & Utilities
+PRLV SEPA LEBARA FRANCE,Housing & Utilities,0.8418608758168876,Housing & Utilities,model,Housing & Utilities
+PRLV ALLIANZ FRANCE 12/02,Housing & Utilities,0.7936936342984284,Housing & Utilities,model,Housing & Utilities
+PRLV SEPA EDF FR43ZZZ928404,Housing & Utilities,0.5396804289284522,Housing & Utilities,claude,Housing & Utilities
+PRLV AXA FRANCE 19/09,Housing & Utilities,0.8677106115997387,Housing & Utilities,model,Housing & Utilities
+VIR AXA 14/01,Housing & Utilities,0.5557259696527157,Transfers,claude,Housing & Utilities
+VIR NEXITY 18/03,Housing & Utilities,0.5020236472901058,Housing & Utilities,claude,Housing & Utilities
+PRELEVEMENT ENERGIE DIRECTE REF FR16ZZZ938597,Housing & Utilities,0.7139684744967865,Housing & Utilities,model,Housing & Utilities
+PRLV PLENITUDE 18/03,Housing & Utilities,0.5070180462339267,Housing & Utilities,claude,Housing & Utilities
+PRLV SEPA SOSH,Health,0.633747414435509,Housing & Utilities,claude,Housing & Utilities
+PRELEVEMENT RED BY SFR REF FR60ZZZ041257,Housing & Utilities,0.7578030111150682,Housing & Utilities,model,Housing & Utilities
+PRLV EDF 05/12,Housing & Utilities,0.48187373077481643,Housing & Utilities,claude,Housing & Utilities
+PRLV SEPA LEBARA FRANCE FR63ZZZ353310,Housing & Utilities,0.8418608758168876,Housing & Utilities,model,Housing & Utilities
+PRLV EDF 26/07,Housing & Utilities,0.48187373077481643,Housing & Utilities,claude,Housing & Utilities
+VIR AXA 04/11,Housing & Utilities,0.5557259696527157,Transfers,claude,Housing & Utilities
+VIR SEPA EMIS VERS AGENCE FONCIA,Housing & Utilities,0.5290443489567935,Housing & Utilities,claude,Housing & Utilities
+PRELEVEMENT ENERGIE DIRECTE REF FR03ZZZ975245,Housing & Utilities,0.7139684744967865,Housing & Utilities,model,Housing & Utilities
+PRELEVEMENT ALLIANZ FRANCE REF FR29ZZZ833816,Housing & Utilities,0.7008847322257202,Housing & Utilities,model,Housing & Utilities
+PRLV SEPA EDF FR70ZZZ661498,Housing & Utilities,0.5396804289284522,Housing & Utilities,claude,Housing & Utilities
+PRLV AXA FRANCE 24/01,Housing & Utilities,0.8677106115997387,Housing & Utilities,model,Housing & Utilities
+PRLV LYCAMOBILE FRANCE 27/08,Housing & Utilities,0.7255355725848461,Housing & Utilities,model,Housing & Utilities
+PRLV ENERGIE DIRECTE 21/10,Housing & Utilities,0.7729727225876588,Housing & Utilities,model,Housing & Utilities
+VIR SEPA EMIS VERS AXA,Housing & Utilities,0.6206243513317581,Transfers,claude,Housing & Utilities
+PRELEVEMENT RED BY SFR REF FR43ZZZ772942,Housing & Utilities,0.7578030111150682,Housing & Utilities,model,Housing & Utilities
+VIR AXA 12/09,Housing & Utilities,0.5557259696527157,Transfers,claude,Housing & Utilities
+PRLV LYCAMOBILE FRANCE 21/04,Housing & Utilities,0.7255355725848461,Housing & Utilities,model,Housing & Utilities
+PRELEVEMENT VITALIA REF FR36ZZZ749261,Health,0.36922966411942526,Transport,claude,Health
+PAIEMENT CB 29/08 ANGERS MEDIPOLE,Health,0.34107904154047364,Groceries,claude,Health
+PRLV VITALIA 14/07,Health,0.40472827209520545,Housing & Utilities,claude,Health
+CB PHARMACIE BEAUTE 26/12,Health,0.9161568945474751,Health,model,Health
+CARTE 23/12 CABINET DENTAIRE NANTES,Health,0.7119298571272579,Health,model,Health
+PRELEVEMENT CAPIO REF FR62ZZZ831435,Health,0.374938742548676,Transport,claude,Health
+PRLV SEPA CAPIO,Health,0.34506068517389654,Housing & Utilities,claude,Health
+PRELEVEMENT CAPIO REF FR49ZZZ102562,Health,0.374938742548676,Transport,claude,Health
+PRLV SEPA SWISS LIFE SANTE FR48ZZZ706827,Health,0.6741022957665762,Health,claude,Health
+CB MEDIPOLE 31/07,Health,0.6058556253085264,Health,claude,Health
+PRLV SEPA VITALIA,Health,0.5105327350264823,Housing & Utilities,claude,Health
+PAIEMENT CB 25/04 TOULOUSE SANTE NET,Health,0.4271527034970197,Health,claude,Health
+PRELEVEMENT SANTE PHARMA REF FR50ZZZ975451,Health,0.9938487388403636,Health,model,Health
+PRLV SWISS LIFE SANTE 04/03,Health,0.817125451989505,Health,model,Health
+PAIEMENT CB 30/03 LYON LABORATOIRE EUROFINS,Health,0.5908600802758798,Health,claude,Health
+PRLV AXA SANTE 11/08,Health,0.9145459352762322,Health,model,Health
+CARTE 27/12 SANTE NET LA DEFENSE,Health,0.3720540274807978,Health,claude,Health
+PRLV SANTE PHARMA 31/12,Health,0.9967470308767657,Health,model,Health
+PAIEMENT CB 13/10 BOULOGNE-BILL CABINET DENTAIRE,Health,0.520805457011095,Health,claude,Health
+CARTE 24/07 CENTRE DENTAIRE MARSEILLE,Health,0.24860489611945716,Shopping,claude,Health
+PRLV BIOMNIS 14/10,Health,0.5675219105464995,Health,claude,Health
+CB LABORATOIRE EUROFINS 04/11 CARTE X9741,Health,0.6805296109040232,Health,claude,Health
+PRELEVEMENT SANTE PHARMA REF FR59ZZZ551842,Health,0.9938487388403636,Health,model,Health
+PRLV SEPA AXA SANTE,Health,0.853618470845748,Health,model,Health
+CB PHARMACIE BEAUTE 20/02,Health,0.9161568945474751,Health,model,Health
+CB MEDIPOLE 17/12 CARTE X8308,Health,0.33283229563814887,Health,claude,Health
+CB CABINET DENTAIRE 04/12 CARTE X1347,Health,0.48526146977540824,Health,claude,Health
+PRLV SEPA SWISS LIFE SANTE FR66ZZZ254361,Health,0.6741022957665762,Health,claude,Health
+PRLV SEPA SWISS LIFE SANTE,Health,0.6741022957665762,Health,claude,Health
+CB MEDIPOLE 03/11 CARTE X3475,Health,0.33283229563814887,Health,claude,Health
+PRLV SEPA SWISS LIFE SANTE FR47ZZZ541022,Health,0.6741022957665762,Health,claude,Health
+PRELEVEMENT BIOMNIS REF FR35ZZZ030587,Health,0.7967063207466584,Health,model,Health
+PRLV AXA SANTE 10/11,Health,0.9145459352762322,Health,model,Health
+CARTE 09/06 CABINET DENTAIRE LYON,Health,0.5852528483807897,Health,claude,Health
+PRLV SEPA AXA SANTE FR90ZZZ362891,Health,0.853618470845748,Health,model,Health
+CB MEDIPOLE 21/04,Health,0.6058556253085264,Health,claude,Health
+CARTE 24/05 SANTE NET ARGENTEUIL,Health,0.3945647993010245,Health,claude,Health
+PRLV SEPA BIOMNIS,Health,0.41684325233956837,Health,claude,Health
+PRELEVEMENT AXA SANTE REF FR40ZZZ903802,Health,0.7841545339154429,Health,model,Health
+PAIEMENT PAR CARTE LABORATOIRE EUROFINS 04/07,Health,0.653841665259132,Health,claude,Health
+CARTE 02/03 MEDIPOLE ARGENTEUIL,Health,0.20092050634830227,Groceries,claude,Health
+CB PHARMACIE BEAUTE 09/06,Health,0.9161568945474751,Health,model,Health
+PAIEMENT PAR CARTE CABINET DENTAIRE 08/01,Health,0.6288798537997817,Health,claude,Health
+CB MEDIPOLE 20/02,Health,0.6058556253085264,Health,claude,Health
+PAIEMENT PAR CARTE SANTE NET 09/05,Health,0.5634245109554777,Health,claude,Health
+PAIEMENT CB 15/10 LYON 3 MEDIPOLE,Health,0.22865522132901892,Shopping,claude,Health
+CB CENTRE DENTAIRE ARGENTEUIL 05/08,Health,0.2698951913353118,Leisure & Travel,claude,Health
+PRLV SEPA SANTE PHARMA,Health,0.9924785669970381,Health,model,Health
+CARTE X1189 05/04 LABORATOIRE EUROFINS,Health,0.8106737426353202,Health,model,Health
+PAIEMENT PAR CARTE LABORATOIRE EUROFINS 19/06,Health,0.653841665259132,Health,claude,Health
+PAIEMENT CB 30/11 DIJON MEDIPOLE,Health,0.29005148151097254,Groceries,claude,Health
+PRLV SEPA VITALIA FR12ZZZ442117,Health,0.5105327350264823,Housing & Utilities,claude,Health
+PRLV VITALIA 02/08,Health,0.4047283082803069,Housing & Utilities,claude,Health
+CB LABORATOIRE EUROFINS 11/01 CARTE X2367,Health,0.6805296109040232,Health,claude,Health
+PAIEMENT PAR CARTE CENTRE DENTAIRE 22/08,Health,0.48674890935477894,Health,claude,Health
+PRLV SEPA VITALIA FR65ZZZ533077,Health,0.5105327350264823,Housing & Utilities,claude,Health
+PRELEVEMENT CAPIO REF FR63ZZZ904090,Health,0.374938742548676,Transport,claude,Health
+CB LABORATOIRE EUROFINS BORDEAUX 18/04,Health,0.7987885551983303,Health,model,Health
+PAIEMENT PAR CARTE LABORATOIRE EUROFINS 05/09,Health,0.653841665259132,Health,claude,Health
+CARTE X5931 25/07 PHARMACIE BEAUTE,Health,0.9666793725232904,Health,model,Health
+PRELEVEMENT VITALIA REF FR42ZZZ297125,Health,0.36922966411942526,Transport,claude,Health
+PRLV SEPA CAPIO FR11ZZZ307240,Health,0.34506068517389654,Housing & Utilities,claude,Health
+PRELEVEMENT SWISS LIFE SANTE REF FR10ZZZ663436,Health,0.7652524439797525,Health,model,Health
+PRLV SEPA VITALIA FR31ZZZ814396,Health,0.5105327350264823,Housing & Utilities,claude,Health
+PRLV VITALIA 01/05,Health,0.4047283082803069,Housing & Utilities,claude,Health
+PRLV SWISS LIFE SANTE 30/07,Health,0.817125451989505,Health,model,Health
+CB PHARMACIE BEAUTE MARSEILLE 03/03,Health,0.8749320145448948,Health,model,Health
+CB CENTRE DENTAIRE 06/11,Health,0.4048423036012538,Health,claude,Health
+PRLV SEPA BIOMNIS FR43ZZZ075366,Health,0.41684325233956837,Health,claude,Health
+PRLV SEPA AXA SANTE FR50ZZZ198038,Health,0.853618470845748,Health,model,Health
+CB PHARMACIE BEAUTE 03/01 CARTE X2879,Health,0.8566904703720891,Health,model,Health
+PRLV CAPIO 05/01,Health,0.3143482056291769,Health,claude,Health
+CARTE 24/08 PHARMACIE BEAUTE VILLEURBANNE,Health,0.8970538955030976,Health,model,Health
+CARTE X7960 29/08 SANTE NET,Health,0.6228142978889789,Health,claude,Health
+PRLV SEPA SWISS LIFE SANTE FR46ZZZ908197,Health,0.6741022957665762,Health,claude,Health
+PRLV SEPA BIOMNIS FR53ZZZ560331,Health,0.41684325233956837,Health,claude,Health
+CB MEDIPOLE 21/10 CARTE X4721,Health,0.33283229563814887,Health,claude,Health
+PRELEVEMENT SANTE PHARMA REF FR68ZZZ900301,Health,0.9938487388403636,Health,model,Health
+CARTE X7517 10/06 CENTRE DENTAIRE,Health,0.4881718958192621,Health,claude,Health
+PRLV AXA SANTE 16/07,Health,0.9145459352762322,Health,model,Health
+PRELEVEMENT BIOMNIS REF FR10ZZZ496706,Health,0.7967063207466584,Health,model,Health
+PRELEVEMENT BIOMNIS REF FR08ZZZ509549,Health,0.7967063207466584,Health,model,Health
+PRLV SEPA SANTE PHARMA FR48ZZZ769984,Health,0.9924785669970381,Health,model,Health
+CB SANTE NET 26/02,Health,0.4944491274533833,Health,claude,Health
+PRLV SWISS LIFE SANTE 10/01,Health,0.817125451989505,Health,model,Health
+PRLV SANTE PHARMA 23/07,Health,0.9967470308767657,Health,model,Health
+PRELEVEMENT SWISS LIFE SANTE REF FR05ZZZ955657,Health,0.7652524439797525,Health,model,Health
+PAIEMENT PAR CARTE CENTRE DENTAIRE 29/05,Health,0.48674890935477894,Health,claude,Health
+CB WALIBI 21/01,Leisure & Travel,0.6296308530510552,Shopping,claude,Leisure & Travel
+PRLV ZENITH 18/11,Leisure & Travel,0.2889131936148759,Housing & Utilities,claude,Leisure & Travel
+PRLV SEPA ZENITH,Leisure & Travel,0.35177127073639974,Transport,claude,Leisure & Travel
+PAIEMENT PAR CARTE ACCOR HOTELS 04/11,Leisure & Travel,0.7927397426375705,Leisure & Travel,model,Leisure & Travel
+CARTE X8430 06/07 ZENITH PARIS,Leisure & Travel,0.2105312037714503,Groceries,claude,Leisure & Travel
+PRLV SEPA MERCURE HOTELS,Leisure & Travel,0.8018556495519965,Leisure & Travel,model,Leisure & Travel
+PAIEMENT PAR CARTE ZENITH PARIS 06/08,Leisure & Travel,0.2808078727801254,Groceries,claude,Leisure & Travel
+CB ZENITH PARIS 12/10 CARTE X4795,Leisure & Travel,0.32267841888113596,Groceries,claude,Leisure & Travel
+CARTE 12/05 VUELING ARGENTEUIL,Leisure & Travel,0.19317987620260854,Transport,claude,Leisure & Travel
+PAIEMENT CB 16/08 TOULON VUELING,Leisure & Travel,0.2853439121111093,Shopping,claude,Leisure & Travel
+PRLV MERCURE HOTELS 25/08,Leisure & Travel,0.8697506744506613,Leisure & Travel,model,Leisure & Travel
+PAIEMENT CB 17/12 STRASBOURG ZENITH PARIS,Leisure & Travel,0.31081020606764104,Groceries,claude,Leisure & Travel
+CB RYANAIR 27/10,Leisure & Travel,0.6060283819580958,Shopping,claude,Leisure & Travel
+PRLV MERCURE HOTELS 25/11,Leisure & Travel,0.8697506744506613,Leisure & Travel,model,Leisure & Travel
+PAIEMENT CB 13/03 BORDEAUX DISNEYLAND PARIS,Leisure & Travel,0.22916984591553713,Groceries,claude,Leisure & Travel
+PAIEMENT PAR CARTE ACCOR HOTELS 05/10,Leisure & Travel,0.7927397426375705,Leisure & Travel,model,Leisure & Travel
+PRLV ZENITH 09/05,Leisure & Travel,0.2889131936148759,Housing & Utilities,claude,Leisure & Travel
+CARTE 09/11 ZENITH PARIS TOULON,Leisure & Travel,0.16507460225889728,Restaurants,claude,Leisure & Travel
+CARTE X7747 23/01 WALIBI,Leisure & Travel,0.2651156899616965,Transport,claude,Leisure & Travel
+CARTE 11/03 WALIBI ANGERS,Leisure & Travel,0.2550036080472708,Shopping,claude,Leisure & Travel
+CARTE 03/01 WALIBI NICE,Leisure & Travel,0.30613661995115365,Shopping,claude,Leisure & Travel
+CB MUSEE D ORSAY 31/12,Leisure & Travel,0.24871138335479664,Health,claude,Leisure & Travel
+CB WALIBI 01/06 CARTE X6009,Leisure & Travel,0.4038549781956296,Shopping,claude,Leisure & Travel
+CB ACCOR HOTELS 09/03 CARTE X7607,Leisure & Travel,0.7789391966593942,Leisure & Travel,model,Leisure & Travel
+PRLV MERCURE HOTELS 01/01,Leisure & Travel,0.8697506744506613,Leisure & Travel,model,Leisure & Travel
+PRLV ZENITH 28/07,Leisure & Travel,0.2889131936148759,Housing & Utilities,claude,Leisure & Travel
+CARTE X2375 29/01 RYANAIR,Leisure & Travel,0.3097762068692457,Shopping,claude,Leisure & Travel
+PRLV MERCURE HOTELS 24/12,Leisure & Travel,0.8697506744506613,Leisure & Travel,model,Leisure & Travel
+CB BOOKING.COM AIX-EN-PROVEN 11/08,Leisure & Travel,0.228828783313946,Subscriptions,claude,Leisure & Travel
+CARTE 14/04 VUELING MONTREUIL,Leisure & Travel,0.2099509514698511,Health,claude,Leisure & Travel
+PRLV SEPA ZENITH FR09ZZZ628936,Leisure & Travel,0.35177127073639974,Transport,claude,Leisure & Travel
+PAIEMENT CB 03/01 ARGENTEUIL VUELING,Leisure & Travel,0.32407248060917937,Groceries,claude,Leisure & Travel
+PAIEMENT CB 18/04 BOULOGNE-BILL RYANAIR,Leisure & Travel,0.3110798983669231,Shopping,claude,Leisure & Travel
+CB ACCOR HOTELS 01/03 CARTE X9000,Leisure & Travel,0.7789391966593942,Leisure & Travel,model,Leisure & Travel
+PRELEVEMENT MERCURE HOTELS REF FR26ZZZ244670,Leisure & Travel,0.815696901525163,Leisure & Travel,model,Leisure & Travel
+PRELEVEMENT MERCURE HOTELS REF FR60ZZZ252986,Leisure & Travel,0.815696901525163,Leisure & Travel,model,Leisure & Travel
+PAIEMENT CB 15/10 NANTERRE WALIBI,Leisure & Travel,0.3418715523876945,Shopping,claude,Leisure & Travel
+PRLV SEPA ZENITH FR42ZZZ456075,Leisure & Travel,0.35177127073639974,Transport,claude,Leisure & Travel
+CB MUSEE D ORSAY ARGENTEUIL 13/04,Leisure & Travel,0.2885626603053452,Shopping,claude,Leisure & Travel
+CARTE 11/06 ACCOR HOTELS REIMS,Leisure & Travel,0.8541603782759115,Leisure & Travel,model,Leisure & Travel
+CARTE 15/03 DISNEYLAND PARIS STRASBOURG,Leisure & Travel,0.24167590689511723,Groceries,claude,Leisure & Travel
+CB DISNEYLAND PARIS VILLEURBANNE 04/08,Leisure & Travel,0.3808204457170825,Shopping,claude,Leisure & Travel
+CARTE X9217 02/02 WALIBI,Leisure & Travel,0.2651156899616965,Transport,claude,Leisure & Travel
+CARTE X3126 30/06 DISNEYLAND PARIS,Leisure & Travel,0.2580850142404282,Shopping,claude,Leisure & Travel
+CARTE 16/05 WALIBI LA DEFENSE,Leisure & Travel,0.1874887565746618,Transport,claude,Leisure & Travel
+PRELEVEMENT MERCURE HOTELS REF FR26ZZZ460917,Leisure & Travel,0.815696901525163,Leisure & Travel,model,Leisure & Travel
+PRLV SEPA ZENITH FR51ZZZ385445,Leisure & Travel,0.35177127073639974,Transport,claude,Leisure & Travel
+PRELEVEMENT ZENITH REF FR66ZZZ048736,Leisure & Travel,0.36666039570571757,Transport,claude,Leisure & Travel
+PRLV SEPA ZENITH FR32ZZZ998199,Leisure & Travel,0.35177127073639974,Transport,claude,Leisure & Travel
+CB BOOKING.COM REIMS 25/03,Leisure & Travel,0.3706535114954548,Subscriptions,claude,Leisure & Travel
+CARTE X4920 22/09 ZENITH PARIS,Leisure & Travel,0.2105312037714503,Groceries,claude,Leisure & Travel
+PRLV ZENITH 08/09,Leisure & Travel,0.2889131936148759,Housing & Utilities,claude,Leisure & Travel
+PRLV MERCURE HOTELS 02/10,Leisure & Travel,0.8697506744506613,Leisure & Travel,model,Leisure & Travel
+PAIEMENT PAR CARTE VUELING 26/01,Leisure & Travel,0.2553282052083537,Shopping,claude,Leisure & Travel
+PRLV MERCURE HOTELS 27/02,Leisure & Travel,0.8697506744506613,Leisure & Travel,model,Leisure & Travel
+PAIEMENT PAR CARTE BOOKING.COM 13/01,Leisure & Travel,0.2442644619367374,Subscriptions,claude,Leisure & Travel
+CARTE X3993 01/08 RYANAIR,Leisure & Travel,0.3097762068692457,Shopping,claude,Leisure & Travel
+CB CITE DES SCIENCES 12/07 CARTE X5015,Leisure & Travel,0.43868397329227915,Health,claude,Leisure & Travel
+CB ACCOR HOTELS LYON 3 28/04,Leisure & Travel,0.7244563949496547,Leisure & Travel,model,Leisure & Travel
+CB RYANAIR SAINT-DENIS 07/10,Leisure & Travel,0.30940349619232776,Shopping,claude,Leisure & Travel
+PAIEMENT CB 24/02 RENNES WALIBI,Leisure & Travel,0.4189269537796229,Shopping,claude,Leisure & Travel
+CB VUELING BORDEAUX 13/09,Leisure & Travel,0.21953886305847414,Subscriptions,claude,Leisure & Travel
+PRELEVEMENT MERCURE HOTELS REF FR95ZZZ786069,Leisure & Travel,0.815696901525163,Leisure & Travel,model,Leisure & Travel
+PAIEMENT CB 30/03 NANTES DISNEYLAND PARIS,Leisure & Travel,0.2834299736092827,Shopping,claude,Leisure & Travel
+PAIEMENT PAR CARTE DISNEYLAND PARIS 16/09,Leisure & Travel,0.2544448842277848,Shopping,claude,Leisure & Travel
+PAIEMENT PAR CARTE ZENITH PARIS 04/04,Leisure & Travel,0.2808078727801254,Groceries,claude,Leisure & Travel
+PRELEVEMENT ZENITH REF FR31ZZZ670450,Leisure & Travel,0.36666039570571757,Transport,claude,Leisure & Travel
+PAIEMENT CB 09/08 REIMS RYANAIR,Leisure & Travel,0.1941884864683386,Subscriptions,claude,Leisure & Travel
+CB ZENITH PARIS 29/12,Leisure & Travel,0.24831657949262326,Shopping,claude,Leisure & Travel
+PRELEVEMENT ZENITH REF FR66ZZZ014448,Leisure & Travel,0.36666039570571757,Transport,claude,Leisure & Travel
+PRELEVEMENT ZENITH REF FR64ZZZ510173,Housing & Utilities,0.36666039570571757,Transport,claude,Leisure & Travel
+PRLV MERCURE HOTELS 29/08,Leisure & Travel,0.8697506744506613,Leisure & Travel,model,Leisure & Travel
+CARTE X8074 26/08 WALIBI,Leisure & Travel,0.2651157047911871,Transport,claude,Leisure & Travel
+PRLV ZENITH 16/07,Housing & Utilities,0.2889131936148759,Housing & Utilities,claude,Leisure & Travel
+PRLV SEPA MERCURE HOTELS FR76ZZZ889362,Leisure & Travel,0.8018556495519965,Leisure & Travel,model,Leisure & Travel
+PRLV SEPA ZENITH FR35ZZZ851253,Housing & Utilities,0.35177127073639974,Transport,claude,Leisure & Travel
+CB ACCOR HOTELS 18/09 CARTE X1111,Leisure & Travel,0.7789391966593942,Leisure & Travel,model,Leisure & Travel
+CB DISNEYLAND PARIS SAINT-DENIS 12/09,Leisure & Travel,0.24355290697622622,Groceries,claude,Leisure & Travel
+PRLV SEPA ZENITH FR21ZZZ452647,Housing & Utilities,0.35177127073639974,Transport,claude,Leisure & Travel
+CARTE X9807 16/10 BOOKING.COM,Leisure & Travel,0.30147663317279016,Subscriptions,claude,Leisure & Travel
+PRLV MERCURE HOTELS 08/10,Leisure & Travel,0.8697506744506613,Leisure & Travel,model,Leisure & Travel
+PRLV MERCURE HOTELS 29/05,Leisure & Travel,0.8697506744506613,Leisure & Travel,model,Leisure & Travel
+PRELEVEMENT MERCURE HOTELS REF FR58ZZZ796474,Leisure & Travel,0.815696901525163,Leisure & Travel,model,Leisure & Travel
+CB WALIBI 10/07 CARTE X1903,Leisure & Travel,0.4038549781956296,Shopping,claude,Leisure & Travel
+CB ACCOR HOTELS 11/10,Leisure & Travel,0.8945185065000795,Leisure & Travel,model,Leisure & Travel
+PRLV MERCURE HOTELS 04/11,Leisure & Travel,0.8697506744506613,Leisure & Travel,model,Leisure & Travel
+CB ACCOR HOTELS 18/09,Leisure & Travel,0.8945185065000795,Leisure & Travel,model,Leisure & Travel
+PAIEMENT PAR CARTE DISNEYLAND PARIS 14/11,Leisure & Travel,0.2544448842277848,Shopping,claude,Leisure & Travel
+PAIEMENT CB 01/12 LE HAVRE ACCOR HOTELS,Leisure & Travel,0.7354209084430036,Leisure & Travel,model,Leisure & Travel
+CB MUSEE D ORSAY 03/10,Leisure & Travel,0.24871138335479664,Health,claude,Leisure & Travel
+PAIEMENT PAR CARTE CITE DES SCIENCES 12/11,Leisure & Travel,0.4248131198592718,Health,claude,Leisure & Travel
+CB MUSEE D ORSAY 15/09,Leisure & Travel,0.24871138335479664,Health,claude,Leisure & Travel
+VIR INST RECU CAF DE L ESSONNE,Income,0.7802003371430385,Income,model,Income
+VIR SEPA RECU DE CAF DU RHONE,Income,0.7116712656316956,Income,model,Income
+VIR INST RECU CAF DU NORD,Income,0.7400216647387277,Income,model,Income
+VIR CAF DE LYON REF FR81ZZZ079649,Income,0.6912319115738962,Income,claude,Income
+VIR INST RECU CAF DU RHONE,Income,0.793044455141271,Income,model,Income
+VIR CAF DES HAUTS DE SEINE REF FR27ZZZ036924,Income,0.5512756728107003,Income,claude,Income
+VIR SEPA RECU DE CAF DU NORD,Income,0.7186781976122715,Income,model,Income
+VIREMENT DE CAF DES HAUTS DE SEINE,Income,0.6601297203855349,Income,claude,Income
+VIR SEPA RECU DE CAF DE LA LOIRE,Income,0.7558724105001444,Income,model,Income
+VIR SEPA RECU DE CAF DE MARSEILLE,Income,0.639220206043899,Income,claude,Income
+VIR CAF DE PARIS REF FR16ZZZ517680,Income,0.6092650942050616,Income,claude,Income
+VIR CAF DE PARIS REF FR80ZZZ944858,Income,0.6092650942050616,Income,claude,Income
+VIR CAF DE LYON REF FR70ZZZ394380,Income,0.6912319115738962,Income,claude,Income
+VIR SEPA RECU DE CAF,Income,0.7228902958257551,Income,model,Income
+VIREMENT DE CAF DE MARSEILLE,Income,0.5694154563908399,Income,claude,Income
+VIR INST RECU CAF DE LA LOIRE,Income,0.7979419970029332,Income,model,Income
+VIR INST RECU CAF DE MARSEILLE,Income,0.6469915326476653,Income,claude,Income
+VIR CAF DE PARIS REF FR62ZZZ604235,Income,0.6092650942050616,Income,claude,Income
+VIR SEPA RECU DE CAF DE L ESSONNE,Income,0.7658916343348308,Income,model,Income
+VIR CAF DE MARSEILLE REF FR47ZZZ548954,Income,0.646749144836414,Income,claude,Income
+VIR INST RECU CAF DE PARIS,Income,0.7061980656308611,Income,model,Income
+VIR INST RECU CAF DES HAUTS DE SEINE,Income,0.6022041662961805,Income,claude,Income
+VIREMENT DE CAF DU RHONE,Income,0.6576056059036075,Income,claude,Income
+VIREMENT DE CAF DE LA LOIRE,Income,0.7423443075435674,Income,model,Income
+VIR CAF DE LYON REF FR87ZZZ859964,Income,0.6912319115738962,Income,claude,Income
+VIR CAF DES HAUTS DE SEINE REF FR74ZZZ223196,Income,0.5512756728107003,Income,claude,Income
+VIR CAF DE L ESSONNE REF FR94ZZZ301204,Income,0.6686998789652498,Income,claude,Income
+VIREMENT DE CAF,Income,0.7305568448355277,Income,model,Income
+VIR CAF DE PARIS REF FR50ZZZ666267,Income,0.6092650942050616,Income,claude,Income
+VIREMENT DE CAF DE PARIS,Income,0.5775011096078976,Income,claude,Income
+VIR CAF DU RHONE REF FR58ZZZ446634,Income,0.590451006668872,Income,claude,Income
+VIR CAF DE PARIS REF FR60ZZZ798487,Income,0.6092650942050616,Income,claude,Income
+VIR CAF DU RHONE REF FR67ZZZ993593,Income,0.590451006668872,Income,claude,Income
+VIR CAF DE PARIS REF FR29ZZZ831522,Income,0.6092650942050616,Income,claude,Income
+VIR CAF DE PARIS REF FR53ZZZ377460,Income,0.6092650942050616,Income,claude,Income
+VIR INST RECU CAF,Income,0.8205575584634607,Income,model,Income
+VIR CAF DE LYON REF FR07ZZZ321464,Income,0.6912319115738962,Income,claude,Income
+VIR SEPA RECU DE CAF DE PARIS,Income,0.7342721936146904,Income,model,Income
+VIR CAF DU RHONE REF FR87ZZZ233351,Income,0.590451006668872,Income,claude,Income
+VIREMENT DE CAF DE LYON,Income,0.6915591929755212,Income,claude,Income
+VIR CAF DE PARIS REF FR08ZZZ261123,Income,0.6092650942050616,Income,claude,Income
+VIR CAF DES HAUTS DE SEINE REF FR74ZZZ549303,Income,0.5512756728107003,Income,claude,Income
+VIREMENT DE CAF DE L ESSONNE,Income,0.7045869285534831,Income,model,Income
+VIR CAF DE LYON REF FR85ZZZ090255,Income,0.6912319115738962,Income,claude,Income
+VIREMENT DE CAF DU NORD,Income,0.6645315892522408,Income,claude,Income
+VIR CAF DE LA LOIRE REF FR63ZZZ223998,Income,0.7223618296428937,Income,model,Income
+VIR CAF DE PARIS REF FR60ZZZ505376,Income,0.6092650942050616,Income,claude,Income
+VIR CAF DE MARSEILLE REF FR06ZZZ821223,Income,0.646749144836414,Income,claude,Income
+VIR CAF DE MARSEILLE REF FR98ZZZ811457,Income,0.646749144836414,Income,claude,Income
+VIR CAF DES HAUTS DE SEINE REF FR00ZZZ942141,Income,0.5512756728107003,Income,claude,Income
+VIR CAF DE MARSEILLE REF FR05ZZZ276981,Income,0.646749144836414,Income,claude,Income
+VIR INST RECU CAF DE LYON,Income,0.7448505880463633,Income,model,Income
+VIR CAF DES HAUTS DE SEINE REF FR54ZZZ584726,Income,0.5512756728107003,Income,claude,Income
+VIR INST RECU DA COSTA MARTINE,Transfers,0.4740892006247235,Transfers,claude,Transfers
+VIREMENT DE DE SOUSA LUCE,Income,0.754993272010013,Income,model,Transfers
+VIR ROBERT PATRICIA 20/05,Transfers,0.8848299075633992,Transfers,model,Transfers
+VIR PELTIER MICHEL REF FR83ZZZ584461,Transfers,0.5331668986322365,Income,claude,Transfers
+VIR DA COSTA MARTINE REF FR20ZZZ539787,Transfers,0.336469381468914,Transfers,claude,Transfers
+VIREMENT EN FAVEUR DE VASSEUR CAROLINE,Transfers,0.8307745517606092,Transfers,model,Transfers
+VIR SEPA EMIS VERS FABRE PAULETTE,Transfers,0.6482979649905422,Transfers,claude,Transfers
+VIR INST RECU PELTIER MICHEL,Transfers,0.4999248874594841,Income,claude,Transfers
+VIR INST RECU GILLET ROGER,Transfers,0.5269789574203032,Income,claude,Transfers
+VIR SEPA RECU DE PELTIER MICHEL,Transfers,0.5204645966325862,Income,claude,Transfers
+VIREMENT DE PELTIER MICHEL,Transfers,0.49400483507409154,Transfers,claude,Transfers
+VIR INST VERS ROBERT PATRICIA,Transfers,0.8892502795514334,Transfers,model,Transfers
+VIR INST VERS VASSEUR CAROLINE,Transfers,0.8423556284965272,Transfers,model,Transfers
+VIR DA COSTA MARTINE REF FR02ZZZ990716,Transfers,0.336469381468914,Transfers,claude,Transfers
+VIR SEPA EMIS VERS VASSEUR CAROLINE,Transfers,0.8937550498722532,Transfers,model,Transfers
+VIR DA COSTA MARTINE REF FR03ZZZ010956,Transfers,0.336469381468914,Transfers,claude,Transfers
+VIR DE SOUSA LUCE REF FR72ZZZ680808,Income,0.7902908738878563,Income,model,Transfers
+VIREMENT DE DA COSTA MARTINE,Transfers,0.3610783107793008,Income,claude,Transfers
+VIR FABRE PAULETTE 01/12,Transfers,0.6337360093686065,Transfers,claude,Transfers
+VIR GILLET ROGER REF FR19ZZZ490531,Transfers,0.45993644566867975,Transfers,claude,Transfers
+VIR SEPA RECU DE GILLET ROGER,Transfers,0.527264990370151,Income,claude,Transfers
+VIR VASSEUR CAROLINE 06/02,Transfers,0.8585785973723112,Transfers,model,Transfers
+VIR ROBERT PATRICIA 21/12,Transfers,0.8848299075633992,Transfers,model,Transfers
+VIR INST VERS FABRE PAULETTE,Transfers,0.7314261823101522,Transfers,model,Transfers
+VIR SEPA RECU DE DE SOUSA LUCE,Income,0.7567306753101125,Income,model,Transfers
+VIR PELTIER MICHEL REF FR41ZZZ961560,Transfers,0.5331668986322365,Income,claude,Transfers
+VIR DA COSTA MARTINE REF FR93ZZZ592361,Transfers,0.336469381468914,Transfers,claude,Transfers
+VIR INST RECU DE SOUSA LUCE,Income,0.7874326141342535,Income,model,Transfers
+VIREMENT EN FAVEUR DE PHILIPPE MICHELLE,Transfers,0.6748560942950365,Transfers,claude,Transfers
+VIR ROBERT PATRICIA 08/07,Transfers,0.8848299075633992,Transfers,model,Transfers
+VIR INST VERS PHILIPPE MICHELLE,Transfers,0.5399993614615303,Transfers,claude,Transfers
+VIR DA COSTA MARTINE REF FR68ZZZ078525,Transfers,0.336469381468914,Transfers,claude,Transfers
+VIR SEPA RECU DE DA COSTA MARTINE,Transfers,0.4234482413138875,Income,claude,Transfers
+VIR GILLET ROGER REF FR40ZZZ018167,Transfers,0.45993644566867975,Transfers,claude,Transfers
+VIREMENT EN FAVEUR DE ROBERT PATRICIA,Transfers,0.9192781258711922,Transfers,model,Transfers
+VIREMENT DE GILLET ROGER,Transfers,0.4457999717118043,Income,claude,Transfers
+VIR DE SOUSA LUCE REF FR38ZZZ453198,Income,0.7902908738878563,Income,model,Transfers
+VIR VASSEUR CAROLINE 05/04,Transfers,0.8585785973723112,Transfers,model,Transfers
+VIR PHILIPPE MICHELLE 09/08,Transfers,0.5615980370436237,Transfers,claude,Transfers
+VIR GILLET ROGER REF FR48ZZZ543298,Transfers,0.45993644566867975,Transfers,claude,Transfers
+VIR ROBERT PATRICIA 27/03,Transfers,0.8848299075633992,Transfers,model,Transfers
+VIR DE SOUSA LUCE REF FR48ZZZ131045,Income,0.7902908738878563,Income,model,Transfers
+VIR FABRE PAULETTE 03/09,Transfers,0.6337360933860672,Transfers,claude,Transfers
+VIR GILLET ROGER REF FR51ZZZ532594,Transfers,0.45993644566867975,Transfers,claude,Transfers
+VIR ROBERT PATRICIA 03/10,Transfers,0.8848299075633992,Transfers,model,Transfers
+VIR ROBERT PATRICIA 06/11,Transfers,0.8848299075633992,Transfers,model,Transfers
+RETRAIT DAB 26/08 NANTERRE,Cash Withdrawal,0.9819185666875392,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT CAISSE D EPARGNE 11/02,Cash Withdrawal,0.6419772694109939,Cash Withdrawal,claude,Cash Withdrawal
+RET DAB 19/03 REIMS CARTE X4216,Cash Withdrawal,0.9376356711001987,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB LA BANQUE POSTALE STRASBOURG 30/12,Cash Withdrawal,0.9828996662790813,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB BANQUE SAFRA AIX-EN-PROVEN 16/03,Cash Withdrawal,0.991681603335244,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 04/04 MONTREUIL,Cash Withdrawal,0.9787082604336355,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 13/05 MONTREUIL,Cash Withdrawal,0.9787082604336355,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 26/07 PARIS 11,Cash Withdrawal,0.9727145341821213,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 24/07 VILLEURBANNE,Cash Withdrawal,0.9383353404072827,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT CAISSE D EPARGNE 03/07,Cash Withdrawal,0.6419772694109939,Cash Withdrawal,claude,Cash Withdrawal
+RETRAIT LA BANQUE POSTALE 29/04,Cash Withdrawal,0.9632078644127868,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT CAISSE D EPARGNE 03/01,Cash Withdrawal,0.6419772694109939,Cash Withdrawal,claude,Cash Withdrawal
+RETRAIT DAB 14/10 MONTPELLIER,Cash Withdrawal,0.9780565402182901,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT LA BANQUE POSTALE 03/04,Cash Withdrawal,0.9632078644127868,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT BANQUE CIC SUD OUEST 06/12,Cash Withdrawal,0.9038110675483653,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT BANQUE SAFRA 25/12,Cash Withdrawal,0.9933907397318289,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT AXA BANQUE 12/10,Cash Withdrawal,0.9944643686296574,Cash Withdrawal,model,Cash Withdrawal
+RET DAB 10/12 BORDEAUX CARTE X4925,Cash Withdrawal,0.9159862981746251,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB BANQUE SAFRA BOULOGNE-BILL 09/03,Cash Withdrawal,0.9945213956446711,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB AXA BANQUE NANTERRE 16/03,Cash Withdrawal,0.9982648201217122,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 10/10 LILLE,Cash Withdrawal,0.961949862808171,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 09/04 STRASBOURG,Cash Withdrawal,0.9810804065002022,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB BANQUE SAFRA ANGERS 30/08,Cash Withdrawal,0.9979427986245977,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT BANQUE SAFRA 05/11,Cash Withdrawal,0.9933907397318289,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB BANQUE CIC SUD OUEST NANTERRE 29/04,Cash Withdrawal,0.9791439285128286,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 24/06 NICE,Cash Withdrawal,0.9711517600114177,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB BANQUE CIC SUD OUEST LYON 3 12/01,Cash Withdrawal,0.9737683235735334,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT BANQUE CIC SUD OUEST 15/04,Cash Withdrawal,0.9038110675483653,Cash Withdrawal,model,Cash Withdrawal
+RET DAB 22/03 NANTERRE CARTE X6307,Cash Withdrawal,0.8829614290600267,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB LA BANQUE POSTALE NANTES 30/08,Cash Withdrawal,0.9921456045106933,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 15/10 MARSEILLE,Cash Withdrawal,0.9842769182290954,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB BANQUE SAFRA ARGENTEUIL 23/04,Cash Withdrawal,0.9968248859878341,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 29/12 AIX-EN-PROVEN,Cash Withdrawal,0.9249970481300211,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB BANQUE CIC SUD OUEST BORDEAUX 14/01,Cash Withdrawal,0.9809120255224786,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB BANQUE CIC SUD OUEST ANGERS 27/04,Cash Withdrawal,0.9744900007396414,Cash Withdrawal,model,Cash Withdrawal
+RET DAB 05/10 VERSAILLES CARTE X1574,Cash Withdrawal,0.937376233829765,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT CAISSE DEPARGNE ILE DE FRANCE 02/01,Cash Withdrawal,0.38108679152617664,Cash Withdrawal,claude,Cash Withdrawal
+RET DAB 06/10 RENNES CARTE X4844,Cash Withdrawal,0.9243148581535147,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT BANQUE DE LA REUNION 14/01,Cash Withdrawal,0.9264479297064453,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT BANQUE CIC SUD OUEST 30/09,Cash Withdrawal,0.9038110675483653,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB AXA BANQUE MONTPELLIER 09/06,Cash Withdrawal,0.997799171849348,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT CAISSE D EPARGNE 14/01,Cash Withdrawal,0.6419772694109939,Cash Withdrawal,claude,Cash Withdrawal
+RETRAIT DAB BANQUE DE LA REUNION TOULOUSE 10/08,Cash Withdrawal,0.9922467020212882,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 25/06 VILLEURBANNE,Cash Withdrawal,0.9383353404072827,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT BANQUE SAFRA 29/09,Cash Withdrawal,0.9933907397318289,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT BANQUE CIC SUD OUEST 19/07,Cash Withdrawal,0.9038110675483653,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 23/07 PARIS 15,Cash Withdrawal,0.9804491451454547,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 29/06 STRASBOURG,Cash Withdrawal,0.9810804065002022,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 18/09 SAINT-DENIS,Cash Withdrawal,0.9340521901031175,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 12/11 GRENOBLE,Cash Withdrawal,0.9852815307340648,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT BANQUE DE LA REUNION 31/01,Cash Withdrawal,0.9264479297064453,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 10/07 LILLE,Cash Withdrawal,0.961949862808171,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 15/01 SAINT-DENIS,Cash Withdrawal,0.9340521901031175,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT BANQUE DE LA REUNION 16/03,Cash Withdrawal,0.9264479297064453,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB CAISSE DEPARGNE ILE DE FRANCE LYON 3 16/02,Cash Withdrawal,0.8640803137179487,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB LA BANQUE POSTALE STRASBOURG 18/02,Cash Withdrawal,0.9828996662790813,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB BANQUE SAFRA SAINT-DENIS 24/08,Cash Withdrawal,0.9950102986574921,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB BANQUE CIC SUD OUEST TOULON 16/10,Cash Withdrawal,0.9801091512439399,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT LA BANQUE POSTALE 23/02,Cash Withdrawal,0.9632078644127868,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 25/10 AIX-EN-PROVEN,Cash Withdrawal,0.9249970481300211,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 24/11 REIMS,Cash Withdrawal,0.987032154874285,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB AXA BANQUE MONTPELLIER 07/07,Cash Withdrawal,0.997799171849348,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB LA BANQUE POSTALE REIMS 14/04,Cash Withdrawal,0.9929430336845689,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB BANQUE DE LA REUNION LA DEFENSE 18/01,Cash Withdrawal,0.981525317712609,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT CAISSE D EPARGNE 18/10,Cash Withdrawal,0.6419772694109939,Cash Withdrawal,claude,Cash Withdrawal
+RET DAB 04/12 NIMES CARTE X2134,Cash Withdrawal,0.9182179014377262,Cash Withdrawal,model,Cash Withdrawal
+RET DAB 03/03 GRENOBLE CARTE X1385,Cash Withdrawal,0.9057789669036184,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT CAISSE D EPARGNE 24/05,Cash Withdrawal,0.6419772694109939,Cash Withdrawal,claude,Cash Withdrawal
+RETRAIT DAB 18/10 ANGERS,Cash Withdrawal,0.9518193285921127,Cash Withdrawal,model,Cash Withdrawal
+RET DAB 20/03 NANTES CARTE X6016,Cash Withdrawal,0.8780488999604521,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT BANQUE DE LA REUNION 05/06,Cash Withdrawal,0.9264479297064453,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 14/06 TOULOUSE,Cash Withdrawal,0.988628424104258,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 12/01 LE HAVRE,Cash Withdrawal,0.9782323488557335,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 05/06 MONTPELLIER,Cash Withdrawal,0.9780565402182901,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 19/12 NANTES,Cash Withdrawal,0.9620670421407441,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 01/04 LYON,Cash Withdrawal,0.9935518395198804,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 22/01 PARIS,Cash Withdrawal,0.9813909381164264,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB CAISSE DEPARGNE ILE DE FRANCE CRETEIL 03/08,Cash Withdrawal,0.8356918561714601,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB CAISSE DEPARGNE ILE DE FRANCE GRENOBLE 14/02,Cash Withdrawal,0.8525422184952202,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB BANQUE CIC SUD OUEST ARGENTEUIL 28/01,Cash Withdrawal,0.9698621960881728,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT LA BANQUE POSTALE 10/05,Cash Withdrawal,0.9632078644127868,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB BANQUE SAFRA NANTES 30/04,Cash Withdrawal,0.9970365289870972,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 25/07 STRASBOURG,Cash Withdrawal,0.9810804065002022,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 13/07 PARIS,Cash Withdrawal,0.9813909381164264,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 21/04 SAINT-DENIS,Cash Withdrawal,0.9340521901031175,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 06/02 TOULOUSE,Cash Withdrawal,0.988628424104258,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 12/09 NANTERRE,Cash Withdrawal,0.9819185666875392,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT BANQUE CIC SUD OUEST 15/03,Cash Withdrawal,0.9038110675483653,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB AXA BANQUE VILLEURBANNE 30/12,Cash Withdrawal,0.9958028102942577,Cash Withdrawal,model,Cash Withdrawal
+RET DAB 11/01 DIJON CARTE X2386,Cash Withdrawal,0.9200555074155815,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT CAISSE DEPARGNE ILE DE FRANCE 10/02,Cash Withdrawal,0.38108679152617664,Cash Withdrawal,claude,Cash Withdrawal
+RETRAIT DAB 25/10 LYON,Cash Withdrawal,0.9935518395198804,Cash Withdrawal,model,Cash Withdrawal
+RET DAB 22/07 MARSEILLE CARTE X7810,Cash Withdrawal,0.8876107969702683,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 17/08 LE HAVRE,Cash Withdrawal,0.9782323488557335,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT CAISSE DEPARGNE ILE DE FRANCE 15/03,Cash Withdrawal,0.38108679152617664,Cash Withdrawal,claude,Cash Withdrawal
+RETRAIT DAB 06/01 BORDEAUX,Cash Withdrawal,0.9860638611761908,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT BANQUE CIC SUD OUEST 26/02,Cash Withdrawal,0.9038110675483653,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT BANQUE SAFRA 03/01,Cash Withdrawal,0.9933907397318289,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 24/10 TOULOUSE,Cash Withdrawal,0.988628424104258,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 23/02 PARIS 11,Cash Withdrawal,0.9727145341821213,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 28/05 MARSEILLE,Cash Withdrawal,0.9842769182290954,Cash Withdrawal,model,Cash Withdrawal
+RETRAIT DAB 24/01 MONTREUIL,Cash Withdrawal,0.9787082604336355,Cash Withdrawal,model,Cash Withdrawal
+FRAIS TENUE COMPTE PRO 05/04,Bank Fees,0.9491737075994817,Bank Fees,model,Bank Fees
+FRAIS RETRAIT ETRANGER 09/2026,Bank Fees,0.864814472161776,Bank Fees,model,Bank Fees
+COTISATION CARTE VISA 15/08,Bank Fees,0.2523740338477394,Transport,claude,Bank Fees
+COTISATION CARTE VISA 11/06,Bank Fees,0.2523740338477394,Transport,claude,Bank Fees
+FRAIS TENUE COMPTE PRO 04/08,Bank Fees,0.9491737075994817,Bank Fees,model,Bank Fees
+FRAIS ENVOI CHEQUIER 10/2026,Bank Fees,0.9841603599752057,Bank Fees,model,Bank Fees
+COTISATION CARTE VISA 28/08,Bank Fees,0.2523740338477394,Transport,claude,Bank Fees
+FRAIS OPPOSITION CARTE 12/2025,Bank Fees,0.9789394980798594,Bank Fees,model,Bank Fees
+FRAIS RETRAIT ETRANGER 25/09,Bank Fees,0.864814472161776,Bank Fees,model,Bank Fees
+FRAIS OPPOSITION CARTE,Bank Fees,0.9789394980798594,Bank Fees,model,Bank Fees
+FRAIS ENVOI CHEQUIER,Bank Fees,0.9841603599752057,Bank Fees,model,Bank Fees
+FRAIS INCIDENT PAIEMENT 07/04,Bank Fees,0.974085281878409,Bank Fees,model,Bank Fees
+FRAIS RETRAIT ETRANGER,Bank Fees,0.864814472161776,Bank Fees,model,Bank Fees
+FRAIS TENUE COMPTE PRO 26/12,Bank Fees,0.9491737075994817,Bank Fees,model,Bank Fees
+COTISATION CARTE VISA,Bank Fees,0.2523740338477394,Transport,claude,Bank Fees
+FRAIS RETRAIT ETRANGER 24/01,Bank Fees,0.864814472161776,Bank Fees,model,Bank Fees
+FRAIS INCIDENT PAIEMENT,Bank Fees,0.974085281878409,Bank Fees,model,Bank Fees
+FRAIS INCIDENT PAIEMENT 11/2025,Bank Fees,0.974085281878409,Bank Fees,model,Bank Fees
+FRAIS TENUE COMPTE PRO,Bank Fees,0.9491737075994817,Bank Fees,model,Bank Fees
+FRAIS TENUE COMPTE PRO 12/2025,Bank Fees,0.9491737075994817,Bank Fees,model,Bank Fees
+COTISATION CARTE VISA 20/12,Bank Fees,0.2523740338477394,Transport,claude,Bank Fees
+FRAIS TENUE COMPTE PRO 13/09,Bank Fees,0.9491737075994817,Bank Fees,model,Bank Fees
+FRAIS RETRAIT ETRANGER 05/10,Bank Fees,0.864814472161776,Bank Fees,model,Bank Fees
+FRAIS OPPOSITION CARTE 12/02,Bank Fees,0.9789394980798594,Bank Fees,model,Bank Fees
+FRAIS ENVOI CHEQUIER 06/2026,Bank Fees,0.9841603599752057,Bank Fees,model,Bank Fees
+FRAIS OPPOSITION CARTE 17/02,Bank Fees,0.9789394980798594,Bank Fees,model,Bank Fees
+FRAIS ENVOI CHEQUIER 10/02,Bank Fees,0.9841603599752057,Bank Fees,model,Bank Fees
+FRAIS RETRAIT ETRANGER 01/2026,Bank Fees,0.864814472161776,Bank Fees,model,Bank Fees
+FRAIS TENUE COMPTE PRO 02/2026,Bank Fees,0.9491737075994817,Bank Fees,model,Bank Fees
+FRAIS TENUE COMPTE PRO 09/2026,Bank Fees,0.9491737075994817,Bank Fees,model,Bank Fees
+FRAIS OPPOSITION CARTE 10/2026,Bank Fees,0.9789394980798594,Bank Fees,model,Bank Fees
+FRAIS RETRAIT ETRANGER 06/2026,Bank Fees,0.864814472161776,Bank Fees,model,Bank Fees
+FRAIS INCIDENT PAIEMENT 03/2026,Bank Fees,0.974085281878409,Bank Fees,model,Bank Fees
+FRAIS INCIDENT PAIEMENT 06/06,Bank Fees,0.974085281878409,Bank Fees,model,Bank Fees
+FRAIS TENUE COMPTE PRO 04/2026,Bank Fees,0.9491737075994817,Bank Fees,model,Bank Fees
+COTISATION CARTE VISA 30/11,Bank Fees,0.2523740338477394,Transport,claude,Bank Fees
+COTISATION CARTE VISA 04/2026,Bank Fees,0.2523740338477394,Transport,claude,Bank Fees
+FRAIS TENUE COMPTE PRO 06/2026,Bank Fees,0.9491737075994817,Bank Fees,model,Bank Fees
+FRAIS RETRAIT ETRANGER 28/06,Bank Fees,0.864814472161776,Bank Fees,model,Bank Fees
+FRAIS INCIDENT PAIEMENT 19/05,Bank Fees,0.974085281878409,Bank Fees,model,Bank Fees
+FRAIS RETRAIT ETRANGER 08/2026,Bank Fees,0.864814472161776,Bank Fees,model,Bank Fees
+FRAIS OPPOSITION CARTE 13/01,Bank Fees,0.9789394980798594,Bank Fees,model,Bank Fees
+FRAIS ENVOI CHEQUIER 07/2026,Bank Fees,0.9841603599752057,Bank Fees,model,Bank Fees
+FRAIS ENVOI CHEQUIER 01/10,Bank Fees,0.9841603599752057,Bank Fees,model,Bank Fees
+FRAIS OPPOSITION CARTE 15/04,Bank Fees,0.9789394980798594,Bank Fees,model,Bank Fees
+FRAIS TENUE COMPTE PRO 15/09,Bank Fees,0.9491737075994817,Bank Fees,model,Bank Fees
+COTISATION CARTE VISA 06/2026,Bank Fees,0.2523740338477394,Transport,claude,Bank Fees
+FRAIS RETRAIT ETRANGER 29/01,Bank Fees,0.864814472161776,Bank Fees,model,Bank Fees
+FRAIS TENUE COMPTE PRO 02/12,Bank Fees,0.9491737075994817,Bank Fees,model,Bank Fees
+FRAIS ENVOI CHEQUIER 14/07,Bank Fees,0.9841603599752057,Bank Fees,model,Bank Fees
+FRAIS OPPOSITION CARTE 23/11,Bank Fees,0.9789394980798594,Bank Fees,model,Bank Fees
+FRAIS ENVOI CHEQUIER 12/01,Bank Fees,0.9841603599752057,Bank Fees,model,Bank Fees
+FRAIS INCIDENT PAIEMENT 10/2025,Bank Fees,0.974085281878409,Bank Fees,model,Bank Fees
+FRAIS TENUE COMPTE PRO 05/2026,Bank Fees,0.9491737075994817,Bank Fees,model,Bank Fees
+FRAIS TENUE COMPTE PRO 07/2026,Bank Fees,0.9491737075994817,Bank Fees,model,Bank Fees
+FRAIS ENVOI CHEQUIER 11/07,Bank Fees,0.9841603599752057,Bank Fees,model,Bank Fees
+FRAIS INCIDENT PAIEMENT 01/2026,Bank Fees,0.974085281878409,Bank Fees,model,Bank Fees
+COTISATION CARTE VISA 05/2026,Bank Fees,0.2523740338477394,Transport,claude,Bank Fees
+FRAIS RETRAIT ETRANGER 06/01,Bank Fees,0.864814472161776,Bank Fees,model,Bank Fees
+FRAIS RETRAIT ETRANGER 29/07,Bank Fees,0.864814472161776,Bank Fees,model,Bank Fees
+COTISATION CARTE VISA 14/05,Bank Fees,0.2523740338477394,Transport,claude,Bank Fees
+FRAIS RETRAIT ETRANGER 20/12,Bank Fees,0.864814472161776,Bank Fees,model,Bank Fees
